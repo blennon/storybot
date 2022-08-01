@@ -1,0 +1,21 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I would like the story to be about my 3 year old son, Luke. He's a very active and happy boy.
+
+STORYBOT: Okay, so Luke is the main character. Are there any other characters you would like to include in the story?
+CUSTOMER: I would like the story to include his friends, Timmy and Sarah. They are both 3 years old as well.
+
+STORYBOT: Okay, so we have Luke, Timmy and Sarah as the main characters. What kind of story are you looking for? Is there a particular genre you had in mind?
+CUSTOMER: I was thinking a comedy.
+
+STORYBOT: A comedy, that's great! What kind of lessons or themes do you want the story to teach?
+CUSTOMER: I would like the story to teach about kindness.
+
+STORYBOT: Okay, so the story will be a comedy about kindness. Where do you want the story to take place?
+CUSTOMER: I would like the story to take place at a park.
+
+STORYBOT: Okay, so the story will take place at a park. Are there any other details you would like to include?
+CUSTOMER: I don't think so. That's everything I had in mind.
+
+STORYBOT: Okay, so we have a comedy about kindness taking place at a park. I think that's enough information for me to get started. I'll get to work on the story and send it to you when it's done. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

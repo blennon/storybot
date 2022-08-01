@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! My name is Sarah and I have a 3 year old son named Aidan.
+STORYBOT: Hi Sarah! That's a really cute name for a little boy. So your son is the main character of the story, got it. Do you have any ideas about what kind of adventure he goes on?
+CUSTOMER: Well, I was thinking maybe something that would teach him about gratitude?
+STORYBOT: I love that idea! So the story will be about Aidan learning to be grateful for what he has. That's a really great lesson for kids. Do you have any ideas about the setting or where the story takes place?
+CUSTOMER: Not really, I was thinking maybe somewhere like a forest or jungle?
+STORYBOT: That sounds like a really fun setting! I'm sure your son will love it. Do you have any ideas about what kind of obstacles or challenges Aidan will face on his adventure?
+CUSTOMER: Well, I was thinking maybe he could meet some new friends along the way and help them with whatever they're going through?
+STORYBOT: That sounds like a really great adventure! I'm sure your son will love it. Thanks so much for your help, Sarah. I'm sure your son will love the story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

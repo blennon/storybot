@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: I want the main character to be my 4 year old nephew, Levi. He's a boy.
+STORYBOT: Okay, great! And what does Levi like to do?
+CUSTOMER: Levi is really adventurous. He loves to explore and learn new things.
+STORYBOT: That sounds like a lot of fun! And what kind of adventure does Levi want to go on?
+CUSTOMER: I'm not really sure. I just want it to be a story that teaches about courage.
+STORYBOT: That's a great lesson for kids! I'm sure we can come up with something Levi will love. Let me ask you a few more questions and then I'll make some suggestions.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

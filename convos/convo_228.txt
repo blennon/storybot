@@ -1,0 +1,28 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My nephew is 3 years old and his name is Owen. He's a boy.
+
+STORYBOT: Interesting! So, do you want the story to be about Owen specifically?
+CUSTOMER:
+
+Yes, I want the story to be about Owen and his courage. I want him to learn a lesson about being brave from the story.
+
+STORYBOT: That sounds like a great idea for a story! Now, let's talk about setting. Where do you envision the story taking place? 
+CUSTOMER:
+
+I'm not sure. Perhaps in a forest?
+
+STORYBOT: That's a great setting for a story about courage! What kind of adventure do you see Owen going on in the forest? 
+CUSTOMER:
+
+I'm not sure. Perhaps he could meet some animals in the forest and learn a lesson from them?
+
+STORYBOT: That sounds like a great idea! I'm sure Owen would love to meet some new animal friends in the forest. Are there any other themes or lessons you would like the story to teach? 
+CUSTOMER:
+
+I think courage is the most important lesson. I want Owen to learn that it's okay to be scared, but he should still be brave and face his fears.
+
+STORYBOT: That's a great message for a story! I'm sure Owen will love learning about courage from the story. Thanks for all your input! I'll get started on writing the story right away.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

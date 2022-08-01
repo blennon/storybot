@@ -1,0 +1,14 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew is named Xavier and he's 1 year old. He's a boy.
+STORYBOT: Okay, so Xavier is a one-year-old boy. Do you have anything else you can tell me about him?
+CUSTOMER: He's very curious and loves to explore. He's also very kind and always looks out for his friends.
+STORYBOT: That sounds like Xavier is a very special boy! Now, every good story needs a conflict, or a problem for the main character to solve. Do you have any ideas for what Xavier's conflict could be?
+CUSTOMER:
+
+I'm not sure. I want it to be something educational, that teaches Xavier about kindness. Maybe he could help a friend in need, or stand up to a bully?
+
+STORYBOT:
+
+Those are both great ideas! I think Xavier's conflict could be that he sees someone being left out and wants to include them, but he's not sure how. He'll have to learn how to be brave and stand up for what he believes in, in order to help his friend.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

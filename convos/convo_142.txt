@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! The main character is my grandson, Owen. He's three years old and a boy.
+STORYBOT: Okay, got it. So far, we have a three-year-old boy named Owen as our main character. Do you have anything else you can share about him?
+CUSTOMER: Well, he's really active and loves to run around. He also has a bit of a short temper, so we're working on teaching him some self-control.
+STORYBOT: Sounds like you have a very specific story in mind! A story about a young boy learning to control his temper could be really educational for other kids. Are there any other lessons or themes that you would like to include?
+CUSTOMER: I think that's it. I just want it to be a light-hearted story that will teach Owen and other kids about self-control.
+STORYBOT: Okay, I think I have enough information to get started. Thank you for your help! I'll get to work on writing the story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,30 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 4 year old nephew, Rowan. He's a boy.
+STORYBOT: Okay, got it. Now, every great story needs a conflict or a problem for the main character to solve. Do you have any ideas about what kind of problem your nephew Rowan might face in his story?
+CUSTOMER: I'm not sure. I want the story to be about gratitude, so maybe he could learn a lesson about being grateful for what he has?
+STORYBOT: That's a great idea! I'm sure we can come up with a story about Rowan learning to be grateful. Do you have any ideas about what genre or style of story you would like? For example, would you like it to be a fantasy story, or a realistic story set in the present day?
+CUSTOMER: I think a fantasy story would be fun.
+STORYBOT: Okay, a fantasy story it is! Now, every good story needs a setting. Do you have any ideas about where Rowan's story could take place?
+CUSTOMER: I'm not sure. Maybe some kind of magical kingdom?
+STORYBOT: Okay, a magical kingdom it is! Now, every good story needs a conflict or a problem for the main character to solve. Do you have any ideas about what kind of problem your nephew Rowan might face in his story?
+CUSTOMER: I'm not sure. I want the story to be about gratitude, so maybe he could learn a lesson about being grateful for what he has?
+STORYBOT: That's a great idea! I'm sure we can come up with a story about Rowan learning to be grateful. Do you have any ideas about what genre or style of story you would like? For example, would you like it to be a fantasy story, or a realistic story set in the present day?
+CUSTOMER: I think a fantasy story would be fun.
+STORYBOT: Okay, a fantasy story it is! Now, every good story needs a setting. Do you have any ideas about where Rowan's story could take place?
+CUSTOMER: I'm not sure. Maybe some kind of magical kingdom?
+STORYBOT: Okay, a magical kingdom it is! Now, every good story needs a conflict or a problem for the main character to solve. Do you have any ideas about what kind of problem your nephew Rowan might face in his story?
+CUSTOMER: I'm not sure. I want the story to be about gratitude, so maybe he could learn a lesson about being grateful for what he has?
+STORYBOT: That's a great idea! I'm sure we can come up with a story about Rowan learning to be grateful. Do you have any ideas about what genre or style of story you would like? For example, would you like it to be a fantasy story, or a realistic story set in the present day?
+CUSTOMER: I think a fantasy story would be fun.
+STORYBOT: Okay, a fantasy story it is! Now, every good story needs a setting. Do you have any ideas about where Rowan's story could take place?
+CUSTOMER: I'm not sure. Maybe some kind of magical kingdom?
+STORYBOT: Okay, a magical kingdom it is! Now, every good story needs a conflict or a problem for the main character to solve. Do you have any ideas about what kind of problem your nephew Rowan might face in his story?
+CUSTOMER: I'm not sure. I want the story to be about gratitude, so maybe he could learn a lesson about being grateful for what he has?
+STORYBOT: That's a great idea! I'm sure we can come up with a story about Rowan learning to be grateful. Do you have any ideas about what genre or style of story you would like? For example, would you like it to be a fantasy story, or a realistic story set in the present day?
+CUSTOMER: I think a fantasy story would be fun.
+STORYBOT: Okay, a fantasy story it is! Now, every good story needs a setting. Do you have any ideas about where Rowan's story could take place?
+CUSTOMER: I'm not sure. Maybe some kind of magical kingdom?
+STORYBOT: Okay, a magical kingdom it is! Now, every good story needs a conflict or a problem for the main character to solve. Do you have any ideas about what kind of problem your nephew Rowan might face in his story?
+CUSTOMER: I'm not sure. I want the story to be about gratitude, so maybe he could learn a lesson about being grateful for what he has?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

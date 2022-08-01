@@ -1,0 +1,14 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my one year old grandson, Aidan. He's a boy.
+STORYBOT: Okay, now let's move on to the antagonist. Do you want this to be a person, animal, thing or force?
+CUSTOMER: I was thinking maybe an animal.
+STORYBOT: What kind of animal?
+CUSTOMER: I'm not sure.
+STORYBOT: Well, let me give you some options. Would you like the antagonist to be a big, scary animal like a bear or a small, pesky animal like a mouse?
+CUSTOMER: Small, pesky.
+STORYBOT: Excellent choice! Now let's talk about setting. Where does the story take place?
+CUSTOMER: In my house.
+STORYBOT: That's a great choice! And what is the main theme or lesson that you want the story to teach?
+CUSTOMER: I want it to be a comedy, and I want it to teach patience.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

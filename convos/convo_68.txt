@@ -1,0 +1,14 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew is two years old and his name is Aidan. He's a boy.
+STORYBOT: Okay, so Aidan is our protagonist. What does he look like?
+CUSTOMER: He has brown hair and blue eyes. He's a cute little boy.
+STORYBOT: Great, now we have a basic idea of our main character. What is the story about? Is there a particular lesson you would like it to teach?
+CUSTOMER: I would like it to be a science fiction story that teaches about forgiveness.
+STORYBOT: Interesting. What does Aidan have to forgive in the story?
+CUSTOMER: In the story, Aidan's parents are taken away by aliens and he has to forgive them for leaving him.
+STORYBOT: That sounds like a really sad story. Are you sure you want to write something that's so sad for a two year old?
+CUSTOMER: Yes, I think it would be a good lesson for him.
+STORYBOT: Okay, if you're sure that's what you want. What else can you tell me about the story?
+CUSTOMER: That's all I have for now.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

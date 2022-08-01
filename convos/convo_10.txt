@@ -1,0 +1,12 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My son is named Aidan and he is one year old.
+STORYBOT: Okay, Aidan is a great name! And what about your story's main character? Is there anything else you can tell me about them?
+CUSTOMER: I want the story to be about a young boy who is learning to control himself.
+STORYBOT: That sounds like a great story! I'm sure your son will love it. Can you tell me what genre you would like the story to be?
+CUSTOMER: I want it to be a comedy.
+STORYBOT: That's great! A comedy is a great way to teach a lesson about self-control. Do you have any other ideas about the story?
+CUSTOMER: I want it to be set in a grocery store.
+STORYBOT: That's a great setting for a story about self-control! I'm sure your son will love it. Are there any other lessons you would like the story to teach?
+CUSTOMER: I want the story to teach Aidan about the importance of self-control.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,10 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! My name is Rowan and I am four years old.
+STORYBOT: Got it. So, Rowan is your main character. Is there anything else you can tell me about them?
+CUSTOMER: Well, I want the story to be a fantasy and I want it to be about kindness.
+STORYBOT: That's great! So, Rowan is going to be a kind character in a fantasy story. Do you have any ideas about what kind of adventure they might go on?
+CUSTOMER: Not really. I just want it to be a fun story that teaches my son about kindness.
+STORYBOT: I think I have the perfect story for you then. In this story, Rowan will go on a quest to find a magical artifact that will help spread kindness throughout the land. Along the way, he will meet new friends and face challenges, but ultimately he will succeed in his mission and learn the importance of being kind.
+CUSTOMER: That sounds perfect! Thank you so much for your help.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

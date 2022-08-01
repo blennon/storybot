@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My grandson is named Declan and he's two years old.
+STORYBOT: Okay, so we have a two-year-old boy named Declan as our protagonist. Is there anything else you can tell me about Declan?
+CUSTOMER: He's very adventurous and loves to explore. He's also very kind-hearted.
+STORYBOT: That sounds like a great start! So our story will be about an adventurous and kind-hearted two-year-old boy named Declan. Is there anything else you can tell me about Declan that would be helpful in writing the story?
+CUSTOMER: Not that I can think of, but I would like the story to be about Declan learning a lesson about kindness.
+STORYBOT: That's a great idea! I'm sure we can work something out. So, just to be clear, the story will be about Declan learning a lesson about kindness through his adventures. Is that correct?
+CUSTOMER: Yes, that's correct.
+STORYBOT: Perfect! Now, let's move on to the setting of the story. Where will Declan's adventures take place?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

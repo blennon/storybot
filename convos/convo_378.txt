@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my two year old grandson, Benjamin. He's a happy kid that loves to play.
+STORYBOT: Okay, got it. Now, every good story needs a villain. Do you have any ideas for who that could be?
+CUSTOMER: I was thinking maybe a bully at daycare.
+STORYBOT: That sounds like a great idea! Now, what genre do you think would be appropriate for your story?
+CUSTOMER: I was thinking a comedy.
+STORYBOT: That's a great choice! Where do you think the story should take place?
+CUSTOMER: I was thinking maybe at the daycare.
+STORYBOT: That sounds like a great idea! What themes do you want to explore in your story?
+CUSTOMER: I was thinking maybe the theme of forgiveness.
+STORYBOT: That's a great choice! What lessons do you want your story to teach?
+CUSTOMER: I was thinking maybe the lesson of not giving up.
+STORYBOT: That's a great choice! I think I have enough information to write an amazing story for your little one. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,48 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 3 year old nephew, Declan. He's a boy.
+STORYBOT: Alrighty, now let's move on to the antagonist. Is there someone or something that will be causing trouble for your little hero?
+CUSTOMER: Um, I don't know. 
+STORYBOT: That's perfectly fine! We can brainstorm a few options together. Is there something your nephew is afraid of?
+CUSTOMER: He's afraid of the dark.
+STORYBOT: Okay, so the antagonist could be something like a monster that only comes out at night. Does that sound like something your nephew would like?
+CUSTOMER: Yeah, that sounds good.
+STORYBOT: Excellent! Now let's think about the setting. Where does the story take place?
+CUSTOMER: Declan lives in the city, so maybe the story could take place there?
+STORYBOT: Okay, so the story takes place in the city. Is there anywhere specific in the city that you would like the story to take place?
+CUSTOMER: Declan's favorite place is the park, so maybe the story could take place there?
+STORYBOT: Excellent! The story takes place in the park. Is there anything else you can tell me about the setting?
+CUSTOMER: I don't know. 
+STORYBOT: That's perfectly fine! We can brainstorm a few options together. What is the weather like in the city?
+CUSTOMER: It's usually pretty warm.
+STORYBOT: Okay, so the story takes place in the city on a warm day. Is there anything else you can tell me about the setting?
+CUSTOMER: I don't know. 
+STORYBOT: That's perfectly fine! We can brainstorm a few options together. What is the time of day?
+CUSTOMER: The story could take place in the afternoon.
+STORYBOT: Excellent! The story takes place in the city on a warm day in the afternoon. Is there anything else you can tell me about the setting?
+CUSTOMER: I don't know. 
+STORYBOT: That's perfectly fine! We can brainstorm a few options together. What is the season?
+CUSTOMER: The story could take place in the summer.
+STORYBOT: Excellent! The story takes place in the city on a warm day in the summer. Is there anything else you can tell me about the setting?
+CUSTOMER: I don't know. 
+STORYBOT: That's perfectly fine! We can brainstorm a few options together. What year is it?
+CUSTOMER: The story could take place in the present day.
+STORYBOT: Excellent! The story takes place in the city on a warm day in the summer in the present day. Is there anything else you can tell me about the setting?
+CUSTOMER: I don't know. 
+STORYBOT: That's perfectly fine! We can brainstorm a few options together. What is the mood of the story?
+CUSTOMER: I want the story to be adventurous.
+STORYBOT: Excellent! The story is adventurous. Is there anything else you can tell me about the mood of the story?
+CUSTOMER: I don't know. 
+STORYBOT: That's perfectly fine! We can brainstorm a few options together. What is the genre of the story?
+CUSTOMER: I want the story to be an adventure story.
+STORYBOT: Excellent! The story is an adventure story. Is there anything else you can tell me about the genre of the story?
+CUSTOMER: I don't know. 
+STORYBOT: That's perfectly fine! We can brainstorm a few options together. What are some themes that you would like the story to explore?
+CUSTOMER: I want the story to teach about gratitude.
+STORYBOT: Excellent! The story will teach about gratitude. Is there anything else you can tell me about the themes of the story?
+CUSTOMER: I don't know. 
+STORYBOT: That's perfectly fine! We can brainstorm a few options together. What are some lessons that you would like the story to teach?
+CUSTOMER: I want the story to teach about being grateful for what you have.
+STORYBOT: Excellent! The story will teach about being grateful for what you have. Is there anything else you can tell me about the lessons of the story?
+CUSTOMER: I don't know. 
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

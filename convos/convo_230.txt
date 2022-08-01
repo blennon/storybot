@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi Storybot. My nephew is two years old and I would like the story to be about a young boy named Luke.
+STORYBOT: Okay, so Luke is the main character. Is there anything else you can tell me about him?
+CUSTOMER: Luke is a kind and caring boy. He loves animals and nature.
+STORYBOT: That's really sweet. So, Luke is the kind of character who would show compassion to others. Is that an important lesson you want the story to teach?
+CUSTOMER: Yes, I think it's important for kids to learn about compassion.
+STORYBOT: I completely agree. I think a story about Luke teaching compassion would be really heartwarming. Are you looking for a particular genre or type of story?
+CUSTOMER: I'm not sure. Something that would be appropriate for a two year old.
+STORYBOT: Okay, well let me give you some options. Would you like a story that's funny, adventurous, or heartwarming?
+CUSTOMER: Heartwarming sounds good.
+STORYBOT: Great! I think a heartwarming story about Luke teaching compassion would be perfect for your nephew.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

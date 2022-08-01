@@ -1,0 +1,21 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew is named Owen and he's two years old. He's a boy.
+STORYBOT: Okay, so Owen is the main character. What else can you tell me about him?
+CUSTOMER: Owen is adventurous and loves to explore. He's also very curious.
+STORYBOT: Sounds like Owen is going to be a great protagonist! Now, every story needs a good antagonist. Do you have any ideas for who that could be?
+CUSTOMER: Not really. I was thinking maybe a dragon?
+STORYBOT: A dragon sounds like a great choice! Dragons are usually very powerful creatures, so Owen will have to be brave to defeat it.
+
+Now, let's talk about the setting of the story. Where will Owen's adventure take place?
+CUSTOMER: I was thinking maybe in a forest?
+STORYBOT: A forest is a great choice! It will be full of obstacles for Owen to overcome.
+
+What kind of obstacles do you think he will face?
+CUSTOMER: I'm not sure. Maybe he could get lost in the forest?
+STORYBOT: Getting lost in the forest is a great obstacle! He will have to use his smarts and his courage to find his way out.
+
+Are there any other themes or lessons you would like the story to teach?
+CUSTOMER: I think it would be nice if the story could teach Owen about gratitude.
+STORYBOT: That's a great lesson! I'm sure Owen will be very grateful for his adventure when it's all over.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

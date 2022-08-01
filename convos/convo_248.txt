@@ -1,0 +1,20 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi Storybot. The main character is my two year old niece, Harper.
+STORYBOT: Okay, so Harper is the main character. Is there anything else you can tell me about her?
+CUSTOMER: She's very curious and always asking questions.
+STORYBOT: That sounds like Harper will be a great protagonist! Now, every story needs a conflict or problem. Do you have any ideas about what kind of problem Harper could face in her story?
+CUSTOMER: I'm not sure.
+STORYBOT: Well, one option could be that Harper is impatient and has to learn to be patient. Would you be interested in a story like that?
+CUSTOMER: Yes, that sounds perfect.
+STORYBOT: Okay, so Harper will need to learn to be patient in the story. Are there any other lessons you would like the story to teach?
+CUSTOMER: I think that's it for now.
+STORYBOT: Okay, so the story will teach Harper the importance of patience. Do you have any ideas about the setting of the story?
+CUSTOMER: I'm not sure.
+STORYBOT: Well, one option could be that the story takes place at home, at school, or in the city. Would you be interested in a story like that?
+CUSTOMER: Yes, that sounds perfect.
+STORYBOT: Okay, so the story will take place in the city. Do you have any ideas about the plot of the story?
+CUSTOMER: I'm not sure.
+STORYBOT: Well, one option could be that Harper is always in a hurry and never has time to enjoy things. She learns that it's important to slow down and enjoy life. Would you be interested in a story like that?
+CUSTOMER: Yes, that sounds perfect.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

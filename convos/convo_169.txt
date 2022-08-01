@@ -1,0 +1,17 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi, Storybot. My name is Luke and I'm 4 years old. 
+STORYBOT: Hi, Luke! I'm glad to meet you. Do you have any other ideas about your character? For example, what are they like? What are their interests?
+CUSTOMER: Luke is a very active little boy. He loves to play outside and run around. He's also very curious and likes to ask a lot of questions.
+STORYBOT: That sounds like a lot of fun! Is there anything else you can tell me about Luke?
+CUSTOMER: He's also very honest. He always tells the truth, even if it's something he knows he shouldn't say.
+STORYBOT: That's a really important quality to have! I'm sure your story will teach other children the importance of honesty.
+
+Now that I know a little more about your character, let's talk about the story. What genre would you like to write?
+CUSTOMER: I'm not really sure. I want it to be a comedy, but I also want it to teach a lesson.
+STORYBOT: That sounds like a tall order, but I'm sure we can come up with something. Can you give me a little more information about what you would like the story to be about?
+CUSTOMER: I want it to be about honesty. I think it's important for children to learn that it's always best to tell the truth.
+STORYBOT: I completely agree! And a comedy is a great way to get that message across. Do you have any ideas about what might happen in the story?
+CUSTOMER: Not really. I just know that I want Luke to be the star of the show.
+STORYBOT: That's a great idea! I'm sure we can come up with a really funny story that will teach children the importance of honesty. Thank you for your help, Luke. I'm looking forward to reading your story!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

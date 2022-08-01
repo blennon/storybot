@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! My name is Harper and I'm 3 years old.
+STORYBOT: Hi Harper! It sounds like you want a story about a 3 year old girl. Is that right?
+CUSTOMER: Yes, that's right.
+STORYBOT: Okay, now let's think about what kind of story you want. Do you want it to be a fairytale, a sci-fi story, or something else?
+CUSTOMER: I'm not sure. What are my options?
+STORYBOT: Well, you could have a fairytale about a princess who gets lost in the forest and has to find her way home, or a sci-fi story about a girl who goes to space and meets some friendly aliens, or something else entirely. What do you think?
+CUSTOMER: I think I want a sci-fi story.
+STORYBOT: Okay, a sci-fi story it is! Now, what do you want your story to be about?
+CUSTOMER: I want it to be about a girl who goes to space and meets some friendly aliens.
+STORYBOT: That sounds like a great idea! I'm sure your little one will love it. Now, what do you want the story to teach?
+CUSTOMER: I want it to teach about kindness.
+STORYBOT: That's a great lesson! I'm sure your little one will learn a lot from it.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My main character is my two year old niece, Charlotte. She's a girl.
+STORYBOT: So Charlotte is two years old and a girl. Got it. What else can you tell me about her?
+CUSTOMER: She's a very curious and imaginative child. She loves to learn new things and is always asking questions.
+STORYBOT: That sounds like Charlotte will be a great protagonist! Now, every story needs a good antagonist. Do you have any ideas for who that could be?
+CUSTOMER: I'm not sure. I want it to be something educational, so maybe something that represents the opposite of what I want Charlotte to learn.
+STORYBOT: So an educational story with Charlotte as the protagonist and the opposite of what you want her to learn as the antagonist. That sounds like a great story! What kind of setting would you like this story to take place in?
+CUSTOMER: I was thinking maybe a classroom or something similar.
+STORYBOT: A classroom setting sounds perfect for an educational story. Are there any specific themes or lessons that you would like this story to teach?
+CUSTOMER: I want it to be a story about gratitude.
+STORYBOT: A story about gratitude sounds like a great way to teach Charlotte about the importance of being thankful for what she has. Are there any other lessons that you would like this story to teach?
+CUSTOMER: I think that's it.
+STORYBOT: Great! I think I have everything I need to write an amazing story for Charlotte. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

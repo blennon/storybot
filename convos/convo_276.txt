@@ -1,0 +1,12 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The main character is my one year old nephew, Theodore. He's male.
+STORYBOT: Theodore is a great name! How about we make him the star of a story that teaches about kindness?
+CUSTOMER: That sounds perfect. What kind of story would it be?
+STORYBOT: I was thinking maybe a fable? Fables are short stories with a moral lesson at the end.
+CUSTOMER: That sounds good. What would the story be about?
+STORYBOT: In this story, Theodore could learn about the importance of being kind to others. He could meet some new friends along the way, and maybe even help someone in need.
+CUSTOMER: I like that. What do you think the ending should be like?
+STORYBOT: How about Theodore learns that it's always best to be kind, no matter what the situation is?
+CUSTOMER: That sounds great. I think my nephew would love this story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

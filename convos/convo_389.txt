@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew is two years old and his name is Max. He's a boy.
+STORYBOT: What does your main character look like?
+CUSTOMER: He's got blonde hair and blue eyes. He's a little small for his age.
+STORYBOT: What kind of personality does your main character have?
+CUSTOMER: Max is a very curious boy. He's always exploring and asking a lot of questions. He can be a little shy at times, but he's also very brave.
+STORYBOT: What is the main character's goal in the story?
+CUSTOMER: I'm not really sure. I want it to be something educational, that teaches kids about courage.
+STORYBOT: That's a great goal! I'm sure we can come up with a story that does that. Do you have any ideas about what the story might be about?
+CUSTOMER: Not really. I was thinking maybe something with a dragon or a knight?
+STORYBOT: That sounds like a great idea! Let's see if we can come up with a story about a brave knight who has to overcome some challenges with the help of his dragon friend.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

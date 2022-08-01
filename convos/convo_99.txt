@@ -1,0 +1,19 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew is 4 years old and his name is Declan. He's a boy.
+STORYBOT: Okay, now that I know a little bit about your main character, I need to know what the story is about. Is there anything in particular you would like it to teach, or any lessons you would like it to impart?
+CUSTOMER: I would like it to teach my nephew about courage.
+STORYBOT: That's a great lesson for a story! Now, what kind of setting would you like the story to take place in?
+CUSTOMER: I'm not sure...
+STORYBOT: That's okay! Let me give you some options. Would you like the story to take place in a kingdom, the forest, space, or under the sea?
+CUSTOMER: The forest.
+STORYBOT: Great choice! What kind of creatures will be in the story?
+CUSTOMER: I'm not sure...
+STORYBOT: That's okay! Let me give you some options. Would you like there to be bears, wolves, dragons, or fairies in the story?
+CUSTOMER: Dragons.
+STORYBOT: Wow, that sounds like it will be a really exciting story! What is the plot of the story?
+CUSTOMER: I'm not sure...
+STORYBOT: That's okay! Let me give you some options. Is the story about a quest, an adventure, a battle, or a rescue?
+CUSTOMER: An adventure.
+STORYBOT: That sounds like a great story! I can't wait to help you write it!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,26 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! My name is Auntie and I'm writing for my 4 year old nephew, Owen. He's a boy.
+STORYBOT: Okay, so Owen is the main character. Is there anything else you can tell me about him?
+CUSTOMER: He's really adventurous and loves learning new things.
+STORYBOT: That sounds great! So, Owen is an adventurous learner. Is there anything else you can tell me about him?
+CUSTOMER: He's also really grateful for everything he has.
+STORYBOT: That's wonderful! So Owen is an adventurous learner who is grateful for everything he has. Is there anything else you can tell me about him?
+CUSTOMER: No, that's everything.
+STORYBOT: Okay, so we have our main character. Now, every good story needs a conflict or a problem for the character to solve. Do you have any ideas for what kind of conflict or problem Owen might face in his story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, one option might be that Owen gets lost in the forest and has to find his way home. What do you think?
+CUSTOMER: That sounds good.
+STORYBOT: Great! So, Owen gets lost in the forest and has to find his way home. Is there anything else you can tell me about the story?
+CUSTOMER: I want it to be an adventure story.
+STORYBOT: An adventure story sounds perfect! Is there anything else you can tell me about the story?
+CUSTOMER: I want it to teach kids about being grateful for what they have.
+STORYBOT: That's a great lesson for kids to learn! I'm sure they will enjoy the story. Is there anything else you can tell me about the story?
+CUSTOMER: I think that's everything.
+STORYBOT: Okay, so we have our story. Owen gets lost in the forest and has to find his way home. Along the way, he learns about the importance of being grateful for what he has. Do you have any ideas for the ending of the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, one option might be that Owen finally finds his way home and is able to share what he's learned with his family. What do you think?
+CUSTOMER: That sounds good.
+STORYBOT: Great! So, Owen finally finds his way home and is able to share what he's learned with his family. Is there anything else you can tell me about the story?
+CUSTOMER: I think that's everything.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

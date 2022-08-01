@@ -1,0 +1,14 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my two year old nephew, Owen. He's a boy.
+STORYBOT: Okay, great! Now, what does Owen look like?
+CUSTOMER: He has blonde hair and blue eyes. He's a really happy kid, always smiling.
+STORYBOT: Sounds like a fun kid! Now, every story needs a conflict, or a problem for the protagonist to solve. Do you have any ideas for what Owen's conflict could be?
+CUSTOMER: I'm not sure. I want it to be something educational, that teaches kids a lesson. Maybe something about being grateful?
+STORYBOT: That's a great lesson for kids to learn! I'm thinking maybe Owen could be trying to find a way to show his gratitude, but he doesn't know how. He could go on a journey and meet different people, who all teach him different ways to show gratitude. In the end, he could find his own special way to show how grateful he is.
+CUSTOMER: I like that! That sounds like a really cute story.
+STORYBOT: I think so too! Now, do you have any ideas for the setting of the story? Where does Owen go on his journey?
+CUSTOMER: I'm not sure. Maybe he could start in his house, then go outside and explore his neighborhood?
+STORYBOT: That sounds like a great idea! I'm thinking maybe Owen could meet a neighbor who is always doing kind things for others, and that's how he learns about gratitude. Then he could meet a friend who is always complaining, and he learns that being grateful can make you a happier person. What do you think?
+CUSTOMER: I love it! That sounds like a really sweet story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

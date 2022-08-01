@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 3 year old niece, Aurora. 
+STORYBOT: Aurora is a great name! Is there anything else you can tell me about her?
+CUSTOMER: She's very active and loves to explore. She's also quite stubborn, especially when she doesn't get her way.
+STORYBOT: Sounds like Aurora is quite the adventure-seeker! Now, every great story needs a conflict, or problem. What kind of trouble will she get into?
+CUSTOMER: I'm not sure. I want the story to be educational, so maybe something that teaches her about perseverance?
+STORYBOT: I think that's a great idea! What setting do you envision the story taking place in? 
+CUSTOMER: Somewhere in the countryside, like a farm or forest.
+STORYBOT: That sounds lovely. What kind of animals or creatures will be in the story?
+CUSTOMER: I'm not sure. I want it to be appropriate for her age, so nothing too scary.
+STORYBOT: Okay, we'll keep it light and fun then. Are there any other themes or lessons you want the story to teach?
+CUSTOMER: Just anything about perseverance. I think it's an important lesson for kids to learn.
+STORYBOT: I think that's a great idea! I'll get started on the story right away. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

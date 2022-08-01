@@ -1,0 +1,10 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi Storybot. My niece is 3 years old and I would like the story to be about a little girl.
+STORYBOT: Okay, so we're writing a story for a 3 year old girl. Do you want the story to be a comedy?
+CUSTOMER: Yeah, I want it to be a comedy. And I want the story to teach my niece a lesson about self-control.
+STORYBOT: Okay, so the story will be a comedy and the lesson will be about self-control. Do you have any ideas about what the story should be about?
+CUSTOMER: Not really. I just know that I want it to be about a little girl who learns a lesson about self-control.
+STORYBOT: Okay, so the story will be about a little girl who learns a lesson about self-control. Do you have any ideas about what the story should be about?
+CUSTOMER: Not really. I just know that I want it to be about a little girl who learns a lesson about self-control.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

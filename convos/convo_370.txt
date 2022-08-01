@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter is two years old and I want the story to be about an adventure that teaches honesty.
+STORYBOT: That sounds like a great idea! Can you give me a little more information about the adventure? What kind of setting would it take place in?
+CUSTOMER: I want it to be set in a magical kingdom where honesty is the key to success.
+STORYBOT: That sounds like a great setting! Are there any other themes or lessons that you would like the story to teach?
+CUSTOMER: I want the story to teach about the importance of being honest and how honesty is the best policy.
+STORYBOT: That sounds like a great message for the story! I think I have enough information to write an amazing story for your daughter. Thank you for your time and I can't wait to read the finished product to her!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

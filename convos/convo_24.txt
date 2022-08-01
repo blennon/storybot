@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My grandson is 1 year old. His name is Luke.
+STORYBOT: Okay, so we're writing a story for Luke. Is there anything else you can tell me about him?
+CUSTOMER: He's very active and loves to play with his toys.
+STORYBOT: That's great! So our story will be about a young, active boy named Luke. Is there anything else you can tell me about him?
+CUSTOMER: He's very curious and loves to learn new things.
+STORYBOT: That's terrific! So our story will be about a curious and active boy named Luke. Is there anything else you can tell me about him?
+CUSTOMER: He's very kind and loves to help others.
+STORYBOT: That's wonderful! So our story will be about a kind and curious boy named Luke who loves to help others. Is there anything else you can tell me about him?
+CUSTOMER: I want the story to be a fantasy and teach about compassion.
+STORYBOT: That sounds like a great story! I'm sure Luke will love it.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

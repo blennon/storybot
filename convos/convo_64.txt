@@ -1,0 +1,16 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is 1 year old and her name is Piper.
+STORYBOT: Okay, Piper is a great name! And is she a boy or a girl?
+CUSTOMER: She's a girl.
+STORYBOT: Excellent! Now that I know the basics about your main character, can you tell me what kind of story you had in mind? Is there a particular genre or theme you would like?
+CUSTOMER: I want a story about a brave young girl who has to go on a quest to save her kingdom.
+STORYBOT: That sounds like an epic fantasy adventure! I can definitely see Piper as the brave young heroine. Are there any other themes or lessons you would like the story to teach?
+CUSTOMER: I want the story to teach about self-control.
+STORYBOT: That's a great lesson for kids! I'm sure Piper will have to use self-control on her quest to save the kingdom. Do you have any other ideas about the story?
+CUSTOMER:
+
+That's all I have for now. I want the story to be appropriate for children and have a happy ending.
+
+STORYBOT: That sounds like a great story! I'm sure Piper will be a brave and heroic heroine. I'll get started on writing it right away. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

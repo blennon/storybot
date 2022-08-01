@@ -1,0 +1,8 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My son is two years old and his name is Rowan. He's very adventurous.
+STORYBOT: Rowan is a great name! And two years old is the perfect age for an adventure story. So, what kind of adventure does Rowan want to go on?
+CUSTOMER: I'm not really sure. I just want it to be something that will teach him about kindness.
+STORYBOT: That's a great lesson for a story. I know just the thing. How about a story where Rowan meets a new friend who needs help? Rowan can show his new friend how kind he is by helping him out.
+CUSTOMER: That sounds perfect. Thank you so much!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

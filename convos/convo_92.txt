@@ -1,0 +1,22 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew's name is Rowan, he's 4 years old, and he's a boy.
+STORYBOT: Okay, so your nephew is the main character. Do you want the story to be educational?
+CUSTOMER: Yes, I want the story to be educational and teach about perseverance.
+STORYBOT: Okay, so the story will be about your nephew Rowan learning about perseverance. Do you want it to be a long story or a short story?
+CUSTOMER: A short story would be good.
+STORYBOT: Okay, so the story will be about your nephew Rowan learning about perseverance in a short story. Do you want it to be a fiction or non-fiction story?
+CUSTOMER: A fiction story would be good.
+STORYBOT: Okay, so the story will be a fiction story about your nephew Rowan learning about perseverance. What do you want the story to be about?
+CUSTOMER: I want the story to be about my nephew learning to persevere through difficult times.
+STORYBOT: Okay, so the story will be about your nephew Rowan learning to persevere through difficult times. Do you want it to be a happy ending or a sad ending?
+CUSTOMER: A happy ending would be good.
+STORYBOT: Okay, so the story will have a happy ending. Do you want it to be a moral lesson or a life lesson?
+CUSTOMER: A moral lesson would be good.
+STORYBOT: Okay, so the story will be a moral lesson about your nephew Rowan learning to persevere through difficult times. What do you want the story to teach?
+CUSTOMER: I want the story to teach that it's important to never give up and to keep trying even when things are tough.
+STORYBOT: Okay, so the story will teach that it's important to never give up and to keep trying even when things are tough. What do you want the story to be about?
+CUSTOMER: I want the story to be about my nephew learning to persevere through difficult times.
+STORYBOT: Okay, so the story will be about your nephew Rowan learning to persevere through difficult times. What do you want the story to be about?
+CUSTOMER: I want the story to be about my nephew learning to persevere through difficult times.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

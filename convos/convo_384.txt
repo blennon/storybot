@@ -1,0 +1,16 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 4 year old nephew, Grayson. He's a boy.
+STORYBOT: Okay, so Grayson is the main character. Do you want the story to be about him specifically, or just a general story featuring a boy?
+CUSTOMER: A general story about a boy.
+STORYBOT: Got it. Now, every story needs a good conflict. What kind of problem do you want Grayson to face in the story?
+CUSTOMER: I want the story to be a comedy, and I want it to teach Grayson a lesson about self-control.
+STORYBOT: Okay, so the story will be a comedy featuring a boy who learns a lesson about self-control. Do you have any ideas about what the story will be about?
+CUSTOMER: Not really. I just want it to be funny and teach Grayson a lesson about self-control.
+STORYBOT: Okay, so the story will be a comedy featuring a boy who learns a lesson about self-control. Do you have any ideas about what the story will be about?
+CUSTOMER: Not really. I just want it to be funny and teach Grayson a lesson about self-control.
+STORYBOT: Okay, so the story will be a comedy featuring a boy who learns a lesson about self-control. Do you have any ideas about what the story will be about?
+CUSTOMER:
+
+Not really. I just want it to be funny and teach Grayson a lesson about self-control.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

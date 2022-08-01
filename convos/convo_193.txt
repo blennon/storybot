@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I'm the parent of a 3 year old boy named Rowan.
+STORYBOT: Hi there! A 3 year old boy, that's great. And what about your story's main character? Do you have any ideas for them?
+CUSTOMER: I was thinking maybe a space adventurer?
+STORYBOT: A space adventurer sounds really cool! And what kind of adventures would they go on?
+CUSTOMER: I'm not really sure. I just want a story that's sci-fi and teaches about kindness.
+STORYBOT: Okay, I think I understand what you're looking for. A space adventure story with a message of kindness sounds perfect for your little one. I'll get started writing and let you know when it's finished. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

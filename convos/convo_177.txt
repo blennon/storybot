@@ -1,0 +1,26 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My grandchild is a 3 year old boy named Aidan.
+STORYBOT: Okay, Aidan is a great name! Now, what does your protagonist look like?
+CUSTOMER: I'm not sure, I want it to be a surprise for Aidan.
+STORYBOT: That's understandable. How about we choose Aidan's features together? What color hair does he have?
+CUSTOMER: Brown.
+STORYBOT: Great, now what color eyes does he have?
+CUSTOMER: Blue.
+STORYBOT: Okay, now that we know what Aidan looks like on the outside, let's talk about his personality. Is he shy or outgoing?
+CUSTOMER: Outgoing.
+STORYBOT: And is he more of a leader or a follower?
+CUSTOMER: Leader.
+STORYBOT: Excellent, now that we know more about Aidan, it's time to choose a setting for his story. Where does Aidan live?
+CUSTOMER: I was thinking of a space station.
+STORYBOT: A space station is a great setting for a sci-fi story! What kind of adventures does Aidan go on there?
+CUSTOMER: I'm not sure, that's why I need your help.
+STORYBOT: Okay, well how about this: Aidan is the captain of a space station and he and his crew go on adventures to different planets. Does that sound like something you would be interested in?
+CUSTOMER: Yes, that sounds great!
+STORYBOT: Wonderful, now let's talk about the antagonist. Who or what is trying to stop Aidan from achieving his goals?
+CUSTOMER: I'm not sure, maybe an alien race?
+STORYBOT: That sounds like a great idea! Now, what kind of lessons do you want Aidan to learn in this story?
+CUSTOMER: I want him to learn about honesty.
+STORYBOT: Excellent choice! How about this: Aidan and his crew are honest to each other and to the people they meet on their adventures. Does that sound good to you?
+CUSTOMER: Yes, that sounds perfect!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

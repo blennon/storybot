@@ -1,0 +1,20 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My grandchild is a one year old girl named Bella.
+STORYBOT: Great! Now, what does Bella look like?
+CUSTOMER: Bella is a very cute little girl with curly brown hair and big blue eyes.
+STORYBOT: Sounds like a very lovely little girl. What is Bella's personality like?
+CUSTOMER: Bella is a very happy and playful little girl. She loves to explore and is always curious about everything.
+STORYBOT: That sounds like a lot of fun. What is Bella's favorite thing to do?
+CUSTOMER: Bella loves to play with her toys and explore the world around her.
+STORYBOT: That sounds like a lot of fun. What does Bella like to learn about?
+CUSTOMER: Bella loves to learn about animals and the world around her. She is always asking questions and is very curious.
+STORYBOT: That sounds like a very inquisitive little girl. What does Bella want to be when she grows up?
+CUSTOMER: Bella wants to be a scientist when she grows up. She is always asking questions about the world and how things work.
+STORYBOT: That sounds like a very ambitious little girl. What is Bella's favorite food?
+CUSTOMER: Bella loves to eat healthy foods. She loves fruits and vegetables and loves to drink water.
+STORYBOT: That sounds like a very healthy little girl. What is Bella's favorite color?
+CUSTOMER: Bella's favorite color is blue.
+STORYBOT: What is Bella's favorite animal?
+CUSTOMER: Bella's favorite animal is a dog. She loves to play with puppies and is always excited to see a dog.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

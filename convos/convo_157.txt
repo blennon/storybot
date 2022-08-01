@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My grandchild is a four year old girl named Quinn.
+STORYBOT: Okay, so Quinn is the main character. Is there anything else you can tell me about her?
+CUSTOMER: She's very brave and loves to have adventures.
+STORYBOT: That sounds like a lot of fun. So, Quinn is the main character and she's brave and adventurous. Are there any other characters in the story?
+CUSTOMER: I was thinking maybe a villain, like a dragon or a witch.
+STORYBOT: That sounds like it could be really exciting. So, we have Quinn and a dragon or witch as the villain. Where does the story take place?
+CUSTOMER: I'm not sure. Somewhere magical, like a fairytale land.
+STORYBOT: That sounds like a great setting. So, the story takes place in a fairytale land and the main character is Quinn. Does Quinn have any goals or lessons she needs to learn in the story?
+CUSTOMER: I was thinking she could learn a lesson about courage.
+STORYBOT: That's a great lesson for a story. So, the story is about Quinn learning a lesson about courage. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. We can always add more details later. For now, let's start writing the story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

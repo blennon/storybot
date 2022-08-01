@@ -1,0 +1,19 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! The protagonist is my one year old niece, Violet. 
+STORYBOT: Okay, a one year old girl named Violet. Is there anything else you can tell me about her?
+CUSTOMER: She's very curious and loves to explore.
+STORYBOT: That sounds like a great start. So, Violet is the main character and she's one year old, curious and loves to explore. What kind of story are you thinking of? 
+CUSTOMER: I'm not really sure. I want it to be a sci-fi story, but I'm not sure what the plot should be.
+STORYBOT: A sci-fi story about a curious one year old girl named Violet sounds great! Do you want the story to be about her learning to be brave?
+CUSTOMER: Yes, that sounds perfect!
+STORYBOT: Okay, so the story is about Violet learning to be brave. Where does the story take place? 
+CUSTOMER: In space!
+STORYBOT: Great, so the story takes place in space. Are there any other themes or lessons you want the story to teach?
+CUSTOMER: I want the story to teach about the importance of family and how to be brave in the face of adversity.
+STORYBOT: Okay, so the story is about Violet learning to be brave in the face of adversity with the help of her family. Do you have any ideas about the ending?
+CUSTOMER: I want Violet to learn that she can be brave even when she's scared and that her family will always be there for her.
+STORYBOT: Okay, so the story ends with Violet being brave and her family being there for her. Is there anything else you can tell me about the story?
+CUSTOMER: I don't think so. That sounds like everything I wanted.
+STORYBOT: Okay, great! I have everything I need to write an amazing story for your little one. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

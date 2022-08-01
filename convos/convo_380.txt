@@ -1,0 +1,14 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is a 2 year old boy named Jace.
+STORYBOT: Okay, so we have a two year old boy protagonist. Is there anything else you can tell me about him?
+CUSTOMER: He's very curious and loves to explore. He's also very determined and never gives up, even when things get tough.
+STORYBOT: That sounds like a very inspiring little boy! Now, every great story needs a conflict or problem for the protagonist to overcome. Do you have any ideas for what kind of conflict Jace might face in our story?
+CUSTOMER: I'm not sure. I would like it to be something educational, that teaches him a lesson.
+STORYBOT: Alright, so our story will teach Jace a lesson about perseverance. Do you have any ideas for what kind of setting or environment Jace will be in during our story?
+CUSTOMER: I was thinking maybe a jungle setting?
+STORYBOT: A jungle setting sounds like a lot of fun! What kind of animals do you think Jace will encounter in the jungle?
+CUSTOMER: I'm not sure, maybe some friendly animals that help him on his journey and some not-so-friendly animals that he has to avoid or outsmart.
+STORYBOT: That sounds like a great adventure! I'm sure Jace will learn a lot about perseverance from overcoming the challenges in the jungle. Are there any other themes or lessons you would like our story to teach?
+CUSTOMER: I think that's all for now. Thank you for your help, Storybot!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

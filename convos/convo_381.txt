@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I'm the aunt of a 4 year old girl named Emily.
+STORYBOT: Hi! I'm the aunt of a 4 year old girl named Emily. What else can you tell me about her?
+CUSTOMER: Emily is a very kind girl.
+STORYBOT: That's great! What else can you tell me about her?
+CUSTOMER: She loves animals and always tries to help others, even if they don't always want her help.
+STORYBOT: That sounds like a very kind and caring child. Is there anything else you can tell me about her?
+CUSTOMER: She's also very curious and loves to ask questions, especially about animals and bugs.
+STORYBOT: That sounds like a very inquisitive child. Is there anything else you can tell me about her?
+CUSTOMER: She loves to learn and is always excited to go to school and learn new things.
+STORYBOT: That sounds like a very smart child. Is there anything else you can tell me about her?
+CUSTOMER: I don't think there's anything else to say.
+STORYBOT: Okay, so we have a main character who is a 4 year old girl named Emily. She is very kind, caring, curious and smart. Do you have any ideas for what kind of story you would like?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

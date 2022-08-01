@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew is 2 years old and his name is Rowan. He's a boy.
+STORYBOT: Okay, so the story will be about a 2 year old boy named Rowan. Is there anything else you can tell me about Rowan that might be important for the story?
+CUSTOMER: He's very adventurous, and loves to explore. He's also very honest.
+STORYBOT: Alright, so the story will be about an adventurous and honest 2 year old boy named Rowan. Is there anything else you can tell me that might be important?
+CUSTOMER: I think that's all.
+STORYBOT: Okay, so the story will be about an adventurous and honest 2 year old boy named Rowan. What kind of adventure would you like him to go on?
+CUSTOMER: I'm not really sure. Maybe something that teaches him about honesty?
+STORYBOT: Okay, so the story will be about an adventurous and honest 2 year old boy named Rowan who learns about honesty. Do you have any ideas about where the story should take place?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

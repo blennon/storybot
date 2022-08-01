@@ -1,0 +1,12 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My son is 4 years old and his name is Declan. He's a boy.
+STORYBOT: Excellent! Now that I know a bit about your main character, can you tell me what kind of story you would like? For example, is it a fairytale, mystery or adventure?
+CUSTOMER: I'm not really sure. I want it to be a sci-fi story.
+STORYBOT: A sci-fi story? That sounds really cool! Do you want it to be set in space or on Earth?
+CUSTOMER: I want it to be set in space.
+STORYBOT: That's great! Now, do you want your story to be about an alien invasion or a space exploration?
+CUSTOMER: I want it to be about a space exploration.
+STORYBOT: That's really cool! Now, do you want your story to have a moral lesson?
+CUSTOMER: Yes, I want it to teach about patience.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

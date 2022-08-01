@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I'm the aunt of a 4 year old boy named Landon. He's really into adventure stories, so I wanted to write him one that would teach him a lesson about being kind.
+STORYBOT: That sounds like a great idea! Can you tell me a little more about what you had in mind? What kind of adventure would your story take place in?
+CUSTOMER: Well, I was thinking something like Landon going on a treasure hunt with his friends. They could encounter all sorts of obstacles along the way, but ultimately find the treasure at the end. And through their adventure, Landon would learn the importance of being kind to others.
+STORYBOT: That sounds like a really fun story! I'm sure Landon would love it. Are there any other themes or lessons you would like to include in the story?
+CUSTOMER: I think that's it. I just want it to be a fun story that teaches Landon a valuable lesson.
+STORYBOT: I think we can definitely make that happen! Thanks for all your input. I'll get started on writing the story right away.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I want to write a story for my 3 year old son, Mateo. He's a really sweet kid, and I want the story to be about compassion.
+STORYBOT: Ok, so we're writing a story about a young boy named Mateo who learns about compassion. Do you want this to be a fantasy story?
+CUSTOMER: Yes, I think a fantasy story would be great.
+STORYBOT: Ok, so in our story, Mateo will go on an adventure in a fantasy world and learn about compassion. Are there any other lessons you want him to learn?
+CUSTOMER: I think it would be great if he learned about courage and determination as well.
+STORYBOT: Ok, so our story will be about Mateo learning about compassion, courage and determination. Do you want to be the one to write the story, or would you like me to help?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

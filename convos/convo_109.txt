@@ -1,0 +1,12 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter is four years old and her name is Willow.
+STORYBOT: Excellent! And what does Willow like to do?
+CUSTOMER: Willow is very active and loves to explore. She's always getting into mischief.
+STORYBOT: Sounds like Willow is quite the handful! It sounds like she could use a lesson in self-control. Would you like your story to be about that?
+CUSTOMER: Yes, I think that would be a good lesson for her.
+STORYBOT: Great! Now, what kind of adventure would Willow like to go on?
+CUSTOMER: She loves anything that is exciting and dangerous.
+STORYBOT: Okay, so Willow is quite the daredevil! How about a story where she has to use her self-control to save the day?
+CUSTOMER: That sounds perfect!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

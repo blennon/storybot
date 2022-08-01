@@ -1,0 +1,8 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter is Quinn and she's 1 year old.
+STORYBOT: So Quinn is the main character, got it. Now, what kind of adventure would you like her to go on?
+CUSTOMER: I want her to learn about gratitude.
+STORYBOT: That's a great lesson! I know just the story. Once upon a time, there was a little girl named Quinn who went on an amazing adventure. She learned all about gratitude and how to be thankful for everything she had. In the end, she was a better person for it.
+CUSTOMER: That sounds perfect! Thank you, Storybot.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

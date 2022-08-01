@@ -1,0 +1,23 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I want the story to be about my two year old nephew, Kai. He's a boy.
+STORYBOT: Okay, so we have a two year old male protagonist named Kai. Is there anything else you can tell me about him?
+CUSTOMER: He's very active and always into something. He also has a bit of a temper.
+STORYBOT: Sounds like Kai is a very spirited child! Now, every good story needs an antagonist. Do you have any ideas for who that could be?
+CUSTOMER: I'm not really sure.
+STORYBOT: Well, it could be anyone or anything that stands in Kai's way or causes him problems. For example, it could be a naughty pet, a bully at school, or even something like a bad habit that he's trying to break.
+CUSTOMER: I think a bad habit would be good. Maybe he's trying to break the habit of biting his nails.
+STORYBOT: Excellent choice! Now, let's talk about the story's setting. Where do you envision Kai's adventures taking place?
+CUSTOMER: I'm not sure. Maybe at home, or at daycare?
+STORYBOT: Okay, so we have a few options for the story's setting. It could take place at Kai's house, or at his daycare. What do you think?
+CUSTOMER: I think the story should take place at home.
+STORYBOT: Great! Now, what kind of lessons do you want Kai to learn in the story?
+CUSTOMER: I want him to learn about self-control.
+STORYBOT: Excellent choice! Self-control is a very important lesson for children to learn. Now, let's talk about the story's genre. What kind of story would you like to write?
+CUSTOMER: I'm not really sure.
+STORYBOT: Well, we have a few options. We could write a adventure story, a comedy, or even a educational story. What do you think?
+CUSTOMER: I think a educational story would be good.
+STORYBOT: Excellent choice! A educational story is a great way to teach children important lessons. Now, let's talk about the story's themes. What themes do you want to explore in the story?
+CUSTOMER: I want to explore the theme of self-control.
+STORYBOT: Excellent choice! Self-control is a very important theme for children to learn about.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

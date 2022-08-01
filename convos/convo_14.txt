@@ -1,0 +1,27 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My daughter's name is Charlotte and she's four years old. I'm not sure what else you need to know.
+STORYBOT:
+
+Do you want the story to be about Charlotte?
+CUSTOMER:
+
+Yes, I think so. She's a very active little girl, always on the go. I'm sure she would love a story about herself.
+STORYBOT:
+
+That sounds great! So, Charlotte is the protagonist of the story. Is there anyone or anything she'll be up against? An antagonist, perhaps?
+CUSTOMER:
+
+Hmm, I'm not sure. I want the story to be light-hearted and funny, so maybe her antagonist could be someone who is always trying to slow her down.
+STORYBOT:
+
+That's a great idea! So, the story will be a comedy with Charlotte trying to outwit her antagonist. Are there any other elements you would like to include?
+CUSTOMER:
+
+I think that's it for now. I want the story to teach Charlotte a lesson about patience, so she can learn to slow down and enjoy life a little more.
+STORYBOT:
+
+That's a great lesson for a story! I'm sure Charlotte will love it.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

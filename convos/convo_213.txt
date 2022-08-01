@@ -1,0 +1,44 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter is named Charlotte and she's two years old.
+STORYBOT: Okay, so Charlotte is the main character. Is there anything else you can tell me about her?
+CUSTOMER: She's very curious and loves exploring. She's also very compassionate, always wanting to help others.
+STORYBOT: That sounds like a great start! Now, every story needs a conflict, or a problem for the main character to solve. Do you have any ideas for what Charlotte's problem could be?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, Charlotte could get lost in a magical forest and have to find her way back home. Or she could be trying to help a baby animal that's in danger. What do you think?
+CUSTOMER: I like the idea of her helping a baby animal.
+STORYBOT: Great! So Charlotte will be helping a baby animal in some way. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, the story could take place in a magical kingdom, or on a faraway planet. What do you think?
+CUSTOMER: I like the idea of a magical kingdom.
+STORYBOT: Great! So the story will take place in a magical kingdom. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, the story could be a fairy tale, or an adventure story. What do you think?
+CUSTOMER: I like the idea of a fairy tale.
+STORYBOT: Great! So the story will be a fairy tale. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, the story could have a moral lesson about compassion, or be about the importance of helping others. What do you think?
+CUSTOMER: I like the idea of a moral lesson about compassion.
+STORYBOT: Great! So the story will have a moral lesson about compassion. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, the story could be lighthearted and fun, or have a more serious tone. What do you think?
+CUSTOMER: I like the idea of a lighthearted and fun story.
+STORYBOT: Great! So the story will be lighthearted and fun. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, the story could have a happy ending, or a more open-ended ending. What do you think?
+CUSTOMER: I like the idea of a happy ending.
+STORYBOT: Great! So the story will have a happy ending. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, the story could be short, or long. What do you think?
+CUSTOMER: I like the idea of a short story.
+STORYBOT: Great! So the story will be short. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, the story could have pictures, or be a wordless story. What do you think?
+CUSTOMER: I like the idea of a story with pictures.
+STORYBOT: Great! So the story will have pictures. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, the story could be in black and white, or in color. What do you think?
+CUSTOMER: I like the idea of a story in color.
+STORYBOT: Great! So the story will be in color. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,38 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The main character is my 3 year old granddaughter, Charlotte. 
+STORYBOT: Okay, so Charlotte is the main character. Is there anything else you can tell me about her?
+CUSTOMER: She's very impatient.
+STORYBOT: I see. So, Charlotte is impatient. Is there anything else you can tell me about her?
+CUSTOMER: She's also very curious.
+STORYBOT: Okay, so Charlotte is impatient and curious. Is there anything else you can tell me about her?
+CUSTOMER: That's all I can think of for now.
+STORYBOT: Okay, so Charlotte is impatient, curious and 3 years old. What kind of story would you like to write about her? 
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. I can help you figure it out. Do you have any ideas?
+CUSTOMER: Not really.
+STORYBOT: Okay. Well, let's start with the genre. Do you want this story to be a comedy, tragedy, drama, action-adventure or something else?
+CUSTOMER: A comedy.
+STORYBOT: Okay, a comedy. What kind of lessons do you want this story to teach?
+CUSTOMER: I want it to teach Charlotte about patience.
+STORYBOT: Okay, so the story will teach Charlotte about patience. Is there anything else you want it to teach?
+CUSTOMER: No, that's it.
+STORYBOT: Okay. So, the story will be a comedy that teaches Charlotte about patience. Do you have any ideas about the plot?
+CUSTOMER: Not really.
+STORYBOT: Okay. Well, let's brainstorm some ideas. Would you like the story to be about Charlotte's everyday life or something else?
+CUSTOMER: Something else.
+STORYBOT: Okay. What about a story about Charlotte going on an adventure?
+CUSTOMER: That sounds good.
+STORYBOT: Okay. So, the story will be about Charlotte going on an adventure. Do you have any ideas about what kind of adventure she goes on?
+CUSTOMER: Not really.
+STORYBOT: Okay. Well, let's brainstorm some ideas. Would you like the story to be about Charlotte going to the Moon or something else?
+CUSTOMER: Something else.
+STORYBOT: Okay. What about a story about Charlotte going on a treasure hunt?
+CUSTOMER: That sounds good.
+STORYBOT: Okay. So, the story will be about Charlotte going on a treasure hunt. Do you have any ideas about what kind of treasure she's looking for?
+CUSTOMER: Not really.
+STORYBOT: Okay. Well, let's brainstorm some ideas. Would you like the story to be about Charlotte looking for a lost toy or something else?
+CUSTOMER: Something else.
+STORYBOT: Okay. What about a story about Charlotte looking for a lost pet?
+CUSTOMER: That sounds good.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,34 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My nephew is 3 years old and his name is Logan. He's a boy.
+
+STORYBOT:
+
+So your nephew is 3 years old and his name is Logan. That's great! Now, what kind of story are you looking to write? Is there a particular genre or theme you had in mind?
+
+CUSTOMER:
+
+I'm thinking of a sci-fi story. I want it to be exciting and teach Logan a lesson about self-control.
+
+STORYBOT:
+
+That sounds like an excellent idea! I can definitely help you with that. In a sci-fi story, there are often many different worlds, technologies and creatures. Do you have any ideas about what you would like to include in your story?
+
+CUSTOMER:
+
+I'm not sure. I want it to be a surprise for Logan.
+
+STORYBOT:
+
+That's understandable. Why don't we brainstorm a few ideas and you can see what you like? For example, what do you think about a story that takes place on a different planet? There could be aliens, spaceships and all sorts of exciting adventures!
+
+CUSTOMER:
+
+That sounds great! I think Logan would love that.
+
+STORYBOT:
+
+Perfect! I'll get started on the story right away. Thank you for your help. I'm sure Logan will love it!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

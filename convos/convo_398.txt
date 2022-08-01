@@ -1,0 +1,22 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is a 4 year old boy named Levi.
+STORYBOT: Okay, and what does Levi look like?
+CUSTOMER: He has blonde hair and blue eyes.
+STORYBOT: Got it. So Levi is the main character of the story. Are there any other important characters we should know about?
+CUSTOMER:
+
+There is an antagonist in the story, but I'm not sure who it is yet. I just know that Levi will have to overcome some challenges and obstacles.
+
+STORYBOT: Okay, so the story will have some suspense and adventure then. That's great! Do you have any ideas about what kind of setting the story should take place in?
+CUSTOMER:
+
+I was thinking a fantasy setting would be nice. Maybe something with dragons or wizards.
+
+STORYBOT: A fantasy setting is definitely an option. Do you want the story to teach your child any particular lessons?
+CUSTOMER:
+
+I would like the story to teach my son about forgiveness.
+
+STORYBOT: That's a great lesson for a child to learn. I think we can definitely work that into the story. Are you ready to start writing?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

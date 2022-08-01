@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I'm the aunt of a 4 year old boy named Owen.
+STORYBOT: Hi! I'm the aunt of a 4 year old boy named Owen. So, we're writing a story for a boy who is 4 years old. What else can you tell me about him?
+CUSTOMER: He's very active and loves to run around outside. He also likes to make up stories with his stuffed animals.
+STORYBOT: So, we're writing a story for a boy who is 4 years old, is very active and loves to run around outside. He also likes to make up stories with his stuffed animals. That sounds like a lot of fun! What else can you tell me about him?
+CUSTOMER: He's a very happy child, but he can also be quite stubborn at times.
+STORYBOT: So, we're writing a story for a boy who is 4 years old, is very active and loves to run around outside. He also likes to make up stories with his stuffed animals. That sounds like a lot of fun! What else can you tell me about him?
+CUSTOMER: He's a very happy child, but he can also be quite stubborn at times.
+STORYBOT: That's great! So, we have a main character who is a 4 year old boy, is very active, loves to run around outside, likes to make up stories with his stuffed animals, is happy, but can be stubborn. That sounds like the beginning of a great story! Now, let's talk about the setting. Where does the story take place?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

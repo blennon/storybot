@@ -1,0 +1,36 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew is two years old and his name is Luke. He's a boy.
+STORYBOT: Okay, so the story will be about a two-year-old boy named Luke. Is there anything else you can tell me about him?
+CUSTOMER: He's very adventurous.
+STORYBOT: An adventurous two-year-old boy named Luke. Got it. Now, every good story needs a conflict, or a problem for the main character to solve. Do you have any ideas for what kind of problem your nephew Luke might face in his adventure?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. Let me give you some options. Would Luke's adventure be about finding something that's been lost, or rescuing someone from danger, or maybe he stumbles upon a mystery that he has to solve?
+CUSTOMER: I like the idea of him finding something that's been lost.
+STORYBOT: Okay, so in this adventure story, two-year-old Luke will be trying to find something that's been lost. Do you have any ideas about what he might be trying to find?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. Let me give you some options. Would Luke be trying to find a toy that he's lost, or a pet that's run away, or maybe he's looking for something that's very important to someone else?
+CUSTOMER: I like the idea of him looking for a pet that's run away.
+STORYBOT: Okay, so in this adventure story, two-year-old Luke will be trying to find a pet that's run away. Do you have any ideas about what kind of pet it might be?
+CUSTOMER: A dog.
+STORYBOT: Okay, so in this adventure story, two-year-old Luke will be trying to find a pet dog that's run away. Do you have any ideas about where the dog might have run away to?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. Let me give you some options. Would the dog be running away from home, or to a specific place, or maybe Luke will have to search all over town to find the dog?
+CUSTOMER: I like the idea of the dog running away from home.
+STORYBOT: Okay, so in this adventure story, two-year-old Luke will be trying to find a pet dog that's run away from home. Do you have any ideas about why the dog might have run away?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. Let me give you some options. Would the dog be running away because it's scared of something, or because it's looking for something, or maybe it just wants to have an adventure?
+CUSTOMER: I like the idea of the dog running away because it's looking for something.
+STORYBOT: Okay, so in this adventure story, two-year-old Luke will be trying to find a pet dog that's run away because it's looking for something. Do you have any ideas about what the dog might be looking for?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. Let me give you some options. Would the dog be looking for its owner, or a friend, or maybe it's looking for a place to belong?
+CUSTOMER: I like the idea of the dog looking for its owner.
+STORYBOT: Okay, so in this adventure story, two-year-old Luke will be trying to find a pet dog that's run away because it's looking for its owner. Do you have any ideas about who the owner might be?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. Let me give you some options. Would the owner be a family member, or a neighbor, or maybe a stranger?
+CUSTOMER: I like the idea of the owner being a stranger.
+STORYBOT: Okay, so in this adventure story, two-year-old Luke will be trying to find a pet dog that's run away because it's looking for a stranger. Do you have any ideas about where the stranger might be?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. Let me give you some options. Would the stranger be in the same town, or in a different town, or maybe even in a different country?
+CUSTOMER: I like the idea of the stranger being in a different town.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,30 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My nephew's name is Elijah and he just turned three years old. He's a happy, curious little boy who loves exploring the world around him. I want a story that will teach him about courage.
+
+STORYBOT:
+
+Great, so Elijah is the main character in your story. Can you tell me a bit about what you want the story to be about? Are there any specific themes or lessons you want it to teach?
+
+CUSTOMER:
+
+I want the story to be about Elijah learning to be brave in the face of new challenges. I want it to teach him that it's okay to be scared, but that he can overcome his fears by being brave.
+
+STORYBOT:
+
+That sounds like a great story! I can definitely see how Elijah could learn a lot about courage from it. Are there any other specific details you can give me about the story? For example, what kind of setting would it take place in?
+
+CUSTOMER:
+
+I'm not sure about the setting, but I want it to be somewhere that's new and exciting for Elijah. Maybe he could go on a safari or visit a new city. As for the challenges he faces, I want them to be things that are a bit scary but not too dangerous.
+
+STORYBOT:
+
+Based on what you've told me, I think a safari would be a great setting for your story. Elijah could face challenges like being afraid of the dark or of animals, but he could also learn a lot about courage and bravery. What do you think?
+
+CUSTOMER:
+
+That sounds perfect! I think a safari would be a great setting for the story. Thank you for all your help, Storybot. I'm excited to see what you come up with.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

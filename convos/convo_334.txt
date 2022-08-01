@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is two years old and her name is Elizabeth.
+STORYBOT: Is Elizabeth a boy or a girl?
+CUSTOMER: She's a girl.
+STORYBOT: Okay, so Elizabeth is a two-year-old girl. Is there anything else you can tell me about her?
+CUSTOMER: She loves animals and she's very kind.
+STORYBOT: That's great! So Elizabeth is a kind, animal-loving two-year-old girl. Is there anything else you can tell me about her?
+CUSTOMER: That's all I can think of.
+STORYBOT: Okay, so Elizabeth is a kind, animal-loving two-year-old girl. What kind of story would you like me to write about her?
+CUSTOMER: I'm not sure. Maybe a comedy?
+STORYBOT: A comedy, huh? Do you have any ideas about what the story would be about?
+CUSTOMER: Not really. I just want it to be appropriate for a two-year-old and teach her a lesson about kindness.
+STORYBOT: I think I have the perfect story for Elizabeth! It's a comedy about a little girl who learns the importance of being kind to animals. I'm sure she'll love it!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I'm the parent of a one year old girl named Willow. She's very curious and loves to explore.
+STORYBOT: That sounds like a great start! Now, what kind of story are you looking for? Is there a particular genre or theme you had in mind?
+CUSTOMER: I'm not really sure. I want it to be a fantasy story, but I'm not sure what the plot should be.
+STORYBOT: That's okay! I can help you figure that out. Are there any lessons you want your child to learn from the story?
+CUSTOMER: I want the story to teach about perseverance.
+STORYBOT: Okay, so a story about a character who never gives up, even in the face of adversity. Do you have any ideas about what kind of adversity the character will face?
+CUSTOMER: Not really. I just want it to be a challenging story.
+STORYBOT: All right, so a story with lots of challenges for the main character. Do you have any ideas about the setting?
+CUSTOMER: I want it to be a magical world with lots of different creatures.
+STORYBOT: Okay, so a story set in a magical world with different creatures. Are there any other elements you would like to include in the story?
+CUSTOMER: I'm not sure. I want it to be a good story for my daughter to enjoy.
+STORYBOT: Okay, so a story that is enjoyable for your daughter to read. I think I have enough information to write an outline for the story. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

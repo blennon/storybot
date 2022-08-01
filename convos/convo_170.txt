@@ -1,0 +1,26 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Charlotte is my two year old daughter.
+STORYBOT: Okay, so Charlotte is the main character. Is there anything else you can tell me about her?
+CUSTOMER: She's very curious and loves to explore. She's also very brave.
+STORYBOT: That sounds like a great start! Now, every story needs a conflict or problem for the main character to solve. Do you have any ideas for what Charlotte's conflict could be?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, maybe Charlotte is afraid of the dark and has to overcome her fear. Or maybe she gets lost in the forest and has to find her way home. What do you think?
+CUSTOMER: I like the idea of her being afraid of the dark and overcoming her fear.
+STORYBOT: Great! Now, every story needs a setting, or the place where the story takes place. Do you have any ideas for where Charlotte's story could take place?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, maybe Charlotte's story takes place in her home, or in the forest. What do you think?
+CUSTOMER: I like the idea of her story taking place in the forest.
+STORYBOT: Great! Now, every story needs a genre, or the type of story it is. Do you have any ideas for what genre Charlotte's story could be?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, maybe Charlotte's story is a fairy tale, or an adventure story. What do you think?
+CUSTOMER: I like the idea of her story being an adventure story.
+STORYBOT: Great! Now, every story needs a theme, or the main idea of the story. Do you have any ideas for what theme Charlotte's story could be?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, maybe Charlotte's story is about courage, or about friendship. What do you think?
+CUSTOMER: I like the idea of her story being about courage.
+STORYBOT: Great! Now, every story needs a lesson, or the moral of the story. Do you have any ideas for what lesson Charlotte's story could teach?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. For example, maybe Charlotte's story teaches the lesson that it's okay to be afraid, or that courage is important. What do you think?
+CUSTOMER: I like the idea of her story teaching the lesson that courage is important.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

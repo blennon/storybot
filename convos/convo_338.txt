@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My niece is Aria, she's two years old and she's a girl.
+STORYBOT: Great, now that I know a little more about Aria can you tell me what kind of story you had in mind? 
+CUSTOMER:
+
+I'm not really sure, I just want something that's appropriate for her age and teaches her a lesson.
+STORYBOT: Okay, I think I understand. Would you like a story with a moral lesson about perseverance?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.
