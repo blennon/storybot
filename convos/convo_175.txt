@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: The protagonist is my one year old grandson, Luke. 
-STORYBOT: Okay, so Luke is the protagonist. Is there anyone or anything that Luke will be up against?
-CUSTOMER: I was thinking maybe an alien?
-STORYBOT: That sounds like it could be really fun! What other details can you tell me about the story?
-CUSTOMER: I'm not sure, I just want it to be a sci-fi story that teaches about self-control.
-STORYBOT: That sounds like a great idea! I think I have enough information to get started. Thanks for your help!
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

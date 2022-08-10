@@ -1,3 +1,3 @@
-# Storybot
+# Story Generator
 
-Chatbot to help you craft a story starring your kid
+This is a GPT-3 powered story generator that iteratively takes user input and uses chain of thought prompting to generate stories.

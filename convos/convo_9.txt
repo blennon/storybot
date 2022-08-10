@@ -1,8 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: Hi! I'm looking for a story for my one year old granddaughter, Willow. She's a very active girl and I want an adventure story that will teach her about honesty.
-STORYBOT: I see. So you want a story with a female protagonist who is around one year old and teaches a lesson about honesty. That sounds like a great story! Are you looking for a specific genre, or just something that Willow will enjoy?
-CUSTOMER: I'm not sure. I want something that she'll be able to understand, but also something that will be exciting for her.
-STORYBOT: Well, how about a story where Willow goes on a treasure hunt? She could learn about honesty by sharing the treasure with her friends. Would that be something you're interested in?
-CUSTOMER: Yes, that sounds perfect!
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

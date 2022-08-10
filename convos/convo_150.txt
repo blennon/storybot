@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER:
-
-My niece is one year old and her name is Charlotte. I would like the story to be educational, teaching her about honesty.
-STORYBOT:
-
-Since your niece is one year old, let's make this a simple story that she can easily follow. The story will be about a little girl named Charlotte who learns about honesty. She'll have some adventures, make some friends and hopefully come out of it all with a better understanding of what it means to be honest. Are you ok with that?
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

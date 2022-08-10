@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: Hi! The main character is my 3 year old niece, Piper. She's a very adventurous little girl.
-STORYBOT: Wonderful! Now, every great story needs a conflict or problem for the main character to solve. Do you have any ideas for what Piper's conflict could be?
-CUSTOMER: Well, I was thinking that Piper could be trying to find her way home after getting lost in the woods.
-STORYBOT: That sounds like a great adventure! I'm sure Piper will learn a lot about patience during her journey home. Is there anything else you can tell me about the story?
-CUSTOMER: Not really. I think that's everything.
-STORYBOT: Okay, well thank you for your input! I'll get started on writing the story right away.
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

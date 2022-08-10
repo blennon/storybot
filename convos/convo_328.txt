@@ -1,7 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: Hi! My name is Landon, I'm 4 years old, and I'm a boy.
-STORYBOT: Ok, Landon is a great name! Now, what kind of adventure would you like to go on?
-CUSTOMER: I want to go on an adventure where I learn about forgiveness.
-STORYBOT: That sounds like a great adventure! I'm sure your little one will love it. As we write the story, we'll be sure to include lots of exciting details and lessons about forgiveness.
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

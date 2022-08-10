@@ -1,7 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: Willow is my 3 year old niece. She's a very active and curious child.
-STORYBOT: That sounds like a great start! Now, every good story needs a problem for the main character to solve. What kind of problem would you like Willow to face in her story?
-CUSTOMER: I'm not sure. I want it to be an adventure story, but I also want it to teach her a lesson about self-control.
-STORYBOT: That's a great idea! An adventure story with a lesson about self-control could be just what Willow needs. I have a few suggestions for you. First, the story could be about Willow's attempts to explore her house while her parents are out, but she has to be careful not to make too much noise or else she'll wake up her baby brother. Second, the story could be about Willow going on a treasure hunt with her friends, but she has to be careful not to get too dirty or else her mom won't let her go to the park afterwards. Third, the story could be about Willow's efforts to help her family get ready for a big party, but she has to be careful not to make too much of a mess. What do you think? Which of these ideas sounds the best to you?
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

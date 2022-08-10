@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: Quinn is my 3 year old niece. She's a girl.
-STORYBOT: Quinn is a great name! And what is her personality like?
-CUSTOMER: She's very energetic and loves to laugh. She's also very compassionate.
-STORYBOT: That sounds like a lot of fun! And what kind of adventure would you like her to go on?
-CUSTOMER: I'm not really sure. I want it to be a comedy, and I want it to teach her a lesson about compassion.
-STORYBOT: That's a great idea! I think I have the perfect story for her. In this story, Quinn will learn about the importance of being kind and helping others. She'll also have a lot of fun along the way!
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: The main character is my 4 year old granddaughter, Quinn. She's a girl.
-STORYBOT: Okay, now let's talk about the setting. Where does your story take place?
-CUSTOMER: anywhere
-STORYBOT:
-
-How about we set the story in a fun place like a park or playground?
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

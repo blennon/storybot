@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER:
-
-My daughter's name is Piper and she's three years old. She's a very active and curious child, so I'm thinking an adventure story would be perfect for her. I want the story to teach her about perseverance and overcoming obstacles.
-STORYBOT:
-
-That sounds like a great story idea! I'm sure your daughter will love it. Now, let's talk about the setting. Where do you envision this story taking place?
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

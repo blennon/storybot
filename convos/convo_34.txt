@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: Willow is my 3 year old niece. She's very adventurous.
-STORYBOT: Excellent! So Willow is the main character of this story. Are there any other characters that are important to the story?
-CUSTOMER: Well, since this is an adventure story, there will probably be a lot of different characters that Willow meets along the way. But I really want the story to focus on honesty, so I think the antagonist should be someone who is dishonest.
-STORYBOT: That sounds like a great story! I'm sure Willow will love it. Are there any other themes or lessons that you would like the story to teach?
-CUSTOMER: I think that's it. I just want the story to be about honesty and having the courage to be honest, even when it's hard.
-STORYBOT: That's a great message for a story. I'm sure Willow will love it. Thank you for your help!
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

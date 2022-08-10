@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: My nephew is four years old and his name is Owen. 
-STORYBOT: Okay, so we have a four year old boy named Owen as our protagonist. Do you have any ideas about what kind of story you would like? It can be anything from an adventure to a comedy.
-CUSTOMER: I was thinking maybe a comedy that teaches about gratitude.
-STORYBOT: That sounds like a great idea! I'm sure your nephew will love it. Can you give me some more details about what you had in mind?
-CUSTOMER: Well, I was thinking maybe something about Owen going on a treasure hunt and finding a pot of gold at the end. But instead of keeping it all for himself, he learns to be grateful and shares it with his family and friends.
-STORYBOT: That sounds like a really fun story! I'm sure your nephew will love it. Thanks for your help.
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

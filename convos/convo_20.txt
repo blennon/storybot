@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: Owen is my 3 year old son. He's a boy.
-STORYBOT: Okay, Owen is a 3 year old boy. Do you have any other information about him that you would like to share?
-CUSTOMER: He's very active and loves to explore. He's also very kind.
-STORYBOT: That sounds like Owen is a perfect protagonist for an adventure story! And you said he's kind, so it sounds like you might want a story with a lesson about kindness. Is that something you're interested in?
-CUSTOMER: Yes, that sounds perfect.
-STORYBOT: Okay, so we're thinking of an adventure story with a lesson about kindness. Do you have any ideas about what kind of adventure Owen might go on or what he might learn about kindness?
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

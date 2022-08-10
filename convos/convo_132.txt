@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: My nephew is 2 years old and his name is Luke. He's a boy.
-STORYBOT: Okay, so we have a 2 year old boy named Luke. Is there anything else you can tell me about him?
-CUSTOMER: He's very active and loves to explore. He's also very impatient.
-STORYBOT: I see. So Luke is an active and impatient 2 year old boy. That sounds like the perfect setup for a fantasy adventure. In a fantasy story, anything is possible, so we can definitely teach him a lesson about patience. Are you looking for any other themes or lessons in the story?
-CUSTOMER: I think that's it. A story about patience would be great.
-STORYBOT: Okay, so we have a story about a 2 year old boy named Luke who learns a lesson about patience. Do you have any ideas about what kind of adventure he might have or what the setting might be like?
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

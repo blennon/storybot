@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: My grandchild is a 2 year old boy named Declan.
-STORYBOT: Okay, Declan is a great name! Now, what else can you tell me about your main character?
-CUSTOMER: Not much, I just want a sci-fi story that teaches about forgiveness.
-STORYBOT: Interesting, a sci-fi story about forgiveness. Can you tell me more about that? What kind of forgivenes are you looking for?
-CUSTOMER: I want a story about a boy who is forgiven by his parents for doing something wrong.
-STORYBOT: That's a great idea! I'm sure your grandchild will love it.
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

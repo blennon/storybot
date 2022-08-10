@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER: I want the protagonist to be a young girl, around 6 years old.
-STORYBOT: Okay, so the protagonist of your story will be a young girl. Is there anything else you can tell me about her?
-CUSTOMER: She's brave and likes to have adventures.
-STORYBOT: So the young girl in your story is brave and likes to have adventures. Can you think of a name for her?
-CUSTOMER: I want her name to be Sarah.
-STORYBOT: Okay, Sarah it is. Now that we know a little more about the main character, let's move on to the setting. Where does your story take place?
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.

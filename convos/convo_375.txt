@@ -1,9 +1,0 @@
-STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
-CUSTOMER:
-
-My daughter's name is Addison and she's two years old. I'm not sure what else you need to know.
-STORYBOT:
-
-That's okay, we can figure it out as we go along. So, what kind of story are you looking for? Is there a particular genre or type of story you had in mind?
-STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
-CUSTOMER: ALL DONE.
