@@ -1,5 +1,5 @@
 __pycache__/
-raven-344415-9022e591d003.json
-openaiapikey.txt
-gpt3_logs/
-memories/
+.env
+.DS_store
+.vscode/
+.ipynb_checkpoints
