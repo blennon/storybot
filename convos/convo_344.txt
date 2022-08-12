@@ -1,0 +1,16 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 2 year old granddaughter, Paige.
+STORYBOT: Okay, so Paige is the main character. Is there anyone else in the story?
+CUSTOMER: No, just Paige.
+STORYBOT: So Paige is the only character in the story. Is there an antagonist?
+CUSTOMER: No, I don't want there to be an antagonist.
+STORYBOT: Okay, so the story is about Paige and there is no one trying to stop her or cause her problems. What is the story about?
+CUSTOMER: I want it to be a comedy and I want it to teach about perseverance.
+STORYBOT: Okay, so the story is a comedy about Paige and her experiences with perseverance. Do you have a specific setting in mind?
+CUSTOMER: No, I don't have a specific setting in mind.
+STORYBOT: Okay, so the story could take place anywhere. Are there any other themes or lessons that you want the story to teach?
+CUSTOMER: No, I just want it to be a funny story about Paige and her experiences with perseverance.
+STORYBOT: Okay, so the story is a comedy about Paige and her experiences with perseverance. Would you like me to suggest some possible plots for the story?
+CUSTOMER: Yes, that would be helpful.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

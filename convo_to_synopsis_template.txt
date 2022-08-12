@@ -1,0 +1,7 @@
+Write a detailed story synopsis for a children's book as requested in the following conversation. The synopsis should name and develop the characters, describe major plot points and take the reader through a narrative arc of begining, middle, climax and end/resolution.
+
+
+<<CONVO>>
+
+
+DETAILED STORY SYNOPSIS:

@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew is 3 years old and his name is Aidan. He's a boy.
+STORYBOT: Excellent! Now that I know a little about your nephew, can you tell me what kind of adventure you would like him to go on?
+CUSTOMER: I want him to learn about forgiveness.
+STORYBOT: That's a great lesson for kids! Can you give me an idea of what the story will be about?
+CUSTOMER: Aidan makes a mistake and has to learn to forgive himself.
+STORYBOT: That sounds like a great story! I'm sure your nephew will love it. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

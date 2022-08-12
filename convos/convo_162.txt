@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: I would like the main character to be a boy and he should be around 1 year old.
+STORYBOT: Okay, so we have a one year old boy as our main character. Can you give me a name for him?
+CUSTOMER: His name is Declan.
+STORYBOT: Declan is a great name! Now that we know our protagonist's name, age and gender, can you give me a brief description of him?
+CUSTOMER: Declan is a very adventurous boy. He is always exploring and loves to find new things.
+STORYBOT: It sounds like Declan is going to be a very fun character to write about. Can you tell me what kind of adventure you would like him to go on?
+CUSTOMER: I would like him to go on a treasure hunt.
+STORYBOT: A treasure hunt sounds like a great adventure for Declan. Can you tell me what lessons you would like him to learn from this adventure?
+CUSTOMER: I would like him to learn about gratitude.
+STORYBOT: A story about gratitude sounds like it will be very special for your little one. Can you tell me what other themes you would like to be included in the story?
+CUSTOMER: I would like the story to be about family and friendship.
+STORYBOT: A story about family, friendship and gratitude sounds like it will be perfect for your little one. Thank you for your help, I will get started on writing the story right away.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

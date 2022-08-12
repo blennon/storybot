@@ -1,0 +1,12 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi, Storybot. My name is Luke and I am 1 year old.
+STORYBOT: Hi, Luke! 1 year old is a great age for an adventure story. Can you think of any other adventures that your child may have experienced?
+CUSTOMER:
+
+Well, my son is always exploring our house. He's always into something and getting into mischief. I think he would like a story about exploration and adventure.
+
+STORYBOT:
+
+That sounds like a great idea! I'm sure your son would love a story about exploration and adventure. I'm thinking about a story where the main character goes on a journey to find something important. Would you like that?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

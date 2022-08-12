@@ -1,0 +1,8 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is named Addison and she's two years old. 
+STORYBOT: Great! So Addison is the star of our story. Now, every story needs a good plot. What kind of adventure would you like her to go on?
+CUSTOMER: I want her to learn about gratitude, so maybe something where she's learning to be thankful for what she has.
+STORYBOT: I love that idea! I'm thinking maybe our story could take place on a farm, where Addison learns to appreciate all the different animals and the food they provide for us. What do you think?
+CUSTOMER: That sounds perfect!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

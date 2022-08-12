@@ -1,0 +1,8 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 3 year old nephew Mateo. He's a boy.
+STORYBOT: Okay, now that I know a little about Mateo, can you tell me what kind of story you're looking for? Is there a particular genre or theme you had in mind?
+CUSTOMER: I'm not really sure. I just want a story that will teach Mateo about perseverance.
+STORYBOT: That's a great lesson for a little one! I think a fantasy story would be perfect for that. In a fantasy story, Mateo can face all sorts of challenges and obstacles, but with perseverance, he can overcome anything!
+CUSTOMER: That sounds perfect! Thank you, Storybot!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My granddaughter is one year old and her name is Quinn. She's a girl.
+STORYBOT: Ok, got it. And what kind of adventure would you like your story to be about?
+CUSTOMER: I want it to be a story about forgiveness.
+STORYBOT: That sounds like a great lesson for a little one. Can you think of any specific examples of times when Quinn might need to forgive someone?
+CUSTOMER: Well, maybe she could forgive a friend for taking her toy without asking, or she could forgive her parents for accidentally forgetting to bring her favorite blanket to daycare.
+STORYBOT: Those are both really good examples. Are there any other lessons you would like the story to teach?
+CUSTOMER: I think that's it for now.
+STORYBOT: Ok, great. So we have a story about Quinn learning to forgive her friends and family. Would you like it to be a happy story or a more serious one?
+CUSTOMER: A happy story would be nice.
+STORYBOT: Excellent choice. I'm sure Quinn will love it.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

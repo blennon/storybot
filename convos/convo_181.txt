@@ -1,0 +1,31 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter's name is Charlotte and she's two years old.
+STORYBOT: Okay, so we're writing a story for a two-year-old girl named Charlotte. Is there anything else you can tell me about her?
+CUSTOMER: She's very adventurous and loves to explore.
+STORYBOT: So Charlotte is an adventurous little girl who loves to explore. Are there any other qualities you would like her to have?
+CUSTOMER: I want her to be brave and courageous.
+STORYBOT: So Charlotte is a brave and courageous little girl. Is there anything else you can tell me about her?
+CUSTOMER: I think that's it.
+STORYBOT: Okay, so we have a brave and courageous little girl named Charlotte. Now, what kind of story would you like to write for her? 
+CUSTOMER: I'm not really sure.
+STORYBOT: That's okay, we can explore some options together. Would you like a story that is realistic, or one that takes place in a different world?
+CUSTOMER: A different world.
+STORYBOT: Okay, we can write a story that takes place in a different world. Would you like it to be a place that is similar to our world, or completely different?
+CUSTOMER: Different.
+STORYBOT: Okay, we can write a story that takes place in a completely different world. Would you like it to be a place that is full of magic, or without magic?
+CUSTOMER: With magic.
+STORYBOT: Okay, we can write a story that takes place in a different world with magic. Would you like the story to be about Charlotte going on an adventure, or learning a lesson?
+CUSTOMER: An adventure.
+STORYBOT: Okay, we can write a story about Charlotte going on an adventure. Would you like her to be the only one with magic powers, or will there be other magical creatures in the story?
+CUSTOMER: Other magical creatures.
+STORYBOT: Okay, we can write a story about Charlotte going on an adventure with other magical creatures. What kind of adventure would you like her to go on? 
+CUSTOMER: I want her to have to face a big challenge that requires her to be very brave.
+STORYBOT: Okay, we can write a story about Charlotte going on an adventure where she has to face a big challenge that requires her to be very brave. Would you like the story to have a happy ending, or a more suspenseful ending?
+CUSTOMER: A happy ending.
+STORYBOT: Okay, we can write a story about Charlotte going on an adventure where she has to face a big challenge that requires her to be very brave, and it will have a happy ending. Are there any other themes or lessons you would like the story to teach?
+CUSTOMER: I don't think so.
+STORYBOT: Okay, we have a story about Charlotte going on an adventure where she has to face a big challenge that requires her to be very brave. The story will have a happy ending, and it will teach children about courage. Is there anything else you would like to know about the story before we start writing it?
+CUSTOMER: I don't think so.
+STORYBOT: Okay, we will start writing the story now. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,30 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi Storybot. My main character is Emily, she's two years old and a girl.
+STORYBOT: Okay, Emily is two years old and a girl. Do you want her to be the star of the story, or play a supporting role?
+CUSTOMER: I want her to be the star.
+STORYBOT: Alright, Emily will be the star of the story. Now, every great story needs a conflict or problem for the main character to solve. Do you have any ideas for what Emily's conflict could be?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. Does Emily have any goals or desires that she's trying to achieve?
+CUSTOMER: She wants to learn to be compassionate.
+STORYBOT: Okay, so Emily's goal is to learn to be compassionate. Do you have any ideas for how she could go about achieving this goal?
+CUSTOMER: Not really.
+STORYBOT: That's okay, we can brainstorm a few ideas together. Does Emily have any obstacles or challenges that she has to overcome in order to achieve her goal?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. Does Emily have any friends or allies that can help her achieve her goal?
+CUSTOMER: Not really.
+STORYBOT: That's okay, we can brainstorm a few ideas together. Does Emily have any enemies or antagonists that are trying to stop her from achieving her goal?
+CUSTOMER: Not really.
+STORYBOT: Okay, so it sounds like Emily is trying to achieve her goal without any help or opposition. Do you have any ideas for how the story could progress?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. Does Emily have any challenges or obstacles that she has to overcome in order to achieve her goal?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. What does Emily learn or discover by the end of the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. What lessons does Emily learn by the end of the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. What are some possible endings for the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few ideas together. Do you have any other ideas or suggestions for the story?
+CUSTOMER: I'm not sure.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

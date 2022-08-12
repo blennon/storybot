@@ -1,0 +1,16 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Charlotte is my 3 year old niece. She's a girl.
+STORYBOT: Okay, so Charlotte is the main character of the story. Is there anything else you can tell me about her?
+CUSTOMER: She's very caring and always looks out for her little brother. She loves animals, and her favorite thing to do is read books.
+STORYBOT: That sounds like a very sweet main character! Now, every good story needs a conflict, or a problem for the main character to solve. Do you have any ideas for what kind of problem Charlotte might face in her story?
+CUSTOMER: I'm not sure...maybe something to do with her little brother?
+STORYBOT: That's a great idea! So Charlotte's problem could be that her little brother is always getting into trouble and she has to try to stop him. Does that sound good to you?
+CUSTOMER: Yes, that sounds perfect!
+STORYBOT: Okay, now we just need to decide on a setting and a genre for the story. Where do you think it should take place?
+CUSTOMER: I'm not sure...somewhere like a forest?
+STORYBOT: Okay, so the story takes place in a forest. Is there anything else you can tell me about the setting?
+CUSTOMER: I'm not sure...maybe there are some animals in the forest that Charlotte befriends?
+STORYBOT: That sounds like a great idea! So the story takes place in a forest, and Charlotte befriends some animals who help her solve her little brother's problem. Does that sound good to you?
+CUSTOMER: Yes, that sounds perfect!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

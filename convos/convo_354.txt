@@ -1,0 +1,30 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is two years old and her name is Sofia.
+STORYBOT: What a lovely name! Is there anything else you can tell me about Sofia?
+CUSTOMER: Sofia is very adventurous, and loves learning new things.
+STORYBOT: That sounds like a lot of fun! So, your story will be an adventure story. That's perfect for a little girl like Sofia.
+
+STORYBOT: Now that we have the main character figured out, let's move on to the antagonist. Do you have any ideas for who or what that could be?
+CUSTOMER: I was thinking maybe a hungry shark, or a mean clown.
+STORYBOT: Hmm, those are both pretty good options. Let me see if I can come up with something else.
+
+STORYBOT: What if the antagonist was a big, friendly dog that was just misunderstood?
+CUSTOMER: I like that!
+STORYBOT: Great! So, the antagonist in your story will be a big, friendly dog that is just misunderstood.
+
+STORYBOT: Now, let's move on to the setting. Where do you want your story to take place?
+CUSTOMER: I was thinking maybe the beach, or a carnival.
+STORYBOT: Those are both great options! Let me see if I can come up with something else.
+
+STORYBOT: How about a pirate ship?
+CUSTOMER: I love that!
+STORYBOT: Great! So, the setting in your story will be a pirate ship.
+
+STORYBOT: Now, let's move on to the themes and lessons you want your story to teach. Do you have any ideas for that?
+CUSTOMER: I want the story to teach about compassion.
+STORYBOT: That's a great lesson to teach! I'm sure your niece will love it.
+
+STORYBOT: So, to recap, your story will be an adventure story about Sofia, a two-year-old girl, who goes on a pirate ship to learn about compassion. Does that sound right?
+CUSTOMER: That sounds perfect! Thank you so much, Storybot.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

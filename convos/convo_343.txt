@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The main character is my two year old nephew, Grayson. He's a boy.
+STORYBOT: Okay, Grayson is a great name! And what does he look like?
+CUSTOMER: He has blonde hair and blue eyes. He's a happy kid, always smiling.
+STORYBOT: That sounds like a really cute kid! So, what kind of story are you looking for? A fantasy? An adventure? A comedy?
+CUSTOMER: I'm not really sure. I want something that's appropriate for his age, and teaches him a lesson about kindness.
+STORYBOT: That's a great idea! I think a fantasy story would be perfect for that. In a fantasy story, anything is possible, so Grayson can go on all kinds of adventures and meet all kinds of different creatures. And since kindness is such an important lesson, I'm sure we can find a way to work it into the story.
+CUSTOMER: That sounds perfect! I think Grayson would love a story like that.
+STORYBOT: Great! I'll get started on the story right away. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

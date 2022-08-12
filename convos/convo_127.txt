@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My son is 3 years old and his name is Declan. He's a boy.
+STORYBOT: Okay, so we're writing a story for a 3 year old boy named Declan. Got it. Now, what is this story about? Is there anything in particular you would like it to teach?
+CUSTOMER: I want it to be a comedy and I want it to teach about courage.
+STORYBOT: Okay, so we're writing a comedy for a 3 year old boy named Declan that will teach about courage. That sounds like a great story! I'm sure your son will love it. Do you have any ideas about what the story should be about?
+CUSTOMER: Not really. I just want it to be a fun story that he can enjoy.
+STORYBOT: Okay, so we're writing a fun story for a 3 year old boy named Declan that will teach about courage. That sounds like a great story! I'm sure your son will love it. Do you have any ideas about what the story should be about?
+CUSTOMER: Not really. I just want it to be a fun story that he can enjoy.
+STORYBOT: Okay, so we're writing a fun story for a 3 year old boy named Declan that will teach about courage. That sounds like a great story! I'm sure your son will love it. What do you think the story should be about?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

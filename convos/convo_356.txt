@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My son is 1 year old and his name is James.
+STORYBOT: 1 year old, huh? So, your story will be for a toddler then. 
+CUSTOMER: Yes, I would like it to be educational as well.
+STORYBOT: That's great! educational stories are always a good choice. With that in mind, what kind of lesson would you like your story to teach?
+CUSTOMER: I would like it to teach about kindness.
+STORYBOT: That's a great lesson! I'm sure your son will love a story about kindness.
+CUSTOMER: Yes, I think he would.
+STORYBOT: Ok, so we have a 1 year old male protagonist named James who is going to learn about kindness. Is there anything else you can tell me about him?
+CUSTOMER: No, that's all.
+STORYBOT: Okay, now let's move on to the antagonist. Do you have anyone in mind for that role?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

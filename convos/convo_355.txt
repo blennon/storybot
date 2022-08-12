@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Grayson is a two-year-old boy.
+STORYBOT: Okay, Grayson is a two-year-old boy. What else can you tell me about him?
+CUSTOMER: He's adventurous and loves to explore. He's also very compassionate, always wanting to help others.
+STORYBOT: It sounds like you want an adventure story with a message of compassion. Is that right?
+CUSTOMER: Yes, that's exactly what I'm looking for.
+STORYBOT: I think I have the perfect story for Grayson. It's about a little boy who goes on a big adventure and learns the importance of being kind and helping others. I'm sure he'll love it!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

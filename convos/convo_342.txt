@@ -1,0 +1,28 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My main character is my 4 year old granddaughter, Natalie. 
+STORYBOT: Natalie is a great name! Is she a boy or a girl?
+CUSTOMER: She's a girl.
+STORYBOT: And what does Natalie like to do?
+CUSTOMER: She loves to play outside and make up stories with her friends.
+STORYBOT: That sounds like a lot of fun. Does Natalie have any problems that she needs to solve?
+CUSTOMER: Not that I can think of.
+STORYBOT: Okay, so Natalie is a fun-loving girl with no problems. That's great! Now, let's talk about the setting of your story. Where does it take place?
+CUSTOMER: It takes place in my backyard.
+STORYBOT: That sounds like a great setting for a story. Does anything interesting happen there?
+CUSTOMER: Not that I can think of.
+STORYBOT: Okay, so the story takes place in your backyard, but nothing interesting happens there. That's okay, we can work with that. Now, let's talk about the genre of your story. What kind of story would you like to write?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can explore some options together. Would you like to write a comedy, drama, or action story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can explore some options together. Would you like to write a comedy, drama, or action story?
+CUSTOMER: A comedy.
+STORYBOT: Great! Now, let's talk about the lessons you want your story to teach. What do you want your story to be about?
+CUSTOMER: I want it to be about perseverance.
+STORYBOT: That's a great lesson for a story. Would you like your story to be about a character who faces difficulties and overcomes them, or a character who doesn't give up even when the going gets tough?
+CUSTOMER: I want it to be about a character who faces difficulties and overcomes them.
+STORYBOT: That's a great choice. Now, let's talk about the ending of your story. How do you want it to end?
+CUSTOMER: I want the character to end up being successful.
+STORYBOT: That's a great ending for a story. Would you like the character to end up being successful in spite of the odds, or because of the odds?
+CUSTOMER: I want the character to end up being successful in spite of the odds.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

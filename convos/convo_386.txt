@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My nephew is two years old and his name is Jace. He's a boy.
+STORYBOT: Okay, now let's move on to the antagonist. Do you want your story to have a bad guy?
+CUSTOMER: No, I don't think so. I want it to be an educational story that teaches about gratitude.
+STORYBOT: That's a great lesson for kids! How about we set the story in a school?
+CUSTOMER: That sounds good.
+STORYBOT: Excellent! So, do you want the story to be about Jace being grateful for his school, or learning to be grateful in general?
+CUSTOMER: I want the story to be about Jace being grateful for his school.
+STORYBOT: That's a great idea! I'm sure kids will love it. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

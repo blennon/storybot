@@ -1,0 +1,7 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Quinn is my 3 year old niece. She's a very curious girl.
+STORYBOT: Okay, so Quinn is the protagonist of the story. Now we need an antagonist. Is there something Quinn is afraid of or doesn't like?
+CUSTOMER: Quinn is afraid of the dark.
+STORYBOT: Okay, so the antagonist in the story is the dark. Now, what type of story would you like to write? A educational story that teaches about honesty.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

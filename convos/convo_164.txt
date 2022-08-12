@@ -1,0 +1,10 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Harper is my 4 year old niece. She's very energetic and loves to learn new things.
+STORYBOT: Harper sounds like a great protagonist! What does she need to learn in this story?
+CUSTOMER: I want the story to be educational and teach her about forgiveness.
+STORYBOT: That's a great lesson for a story. What other themes would you like to include?
+CUSTOMER: I'm not sure.
+STORYBOT: Well, how about a story where Harper learns to forgive her friends after they make a mistake? She could learn that it's okay to forgive and forget, and that everyone makes mistakes sometimes.
+CUSTOMER: That sounds like a great story! I think Harper would love it.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

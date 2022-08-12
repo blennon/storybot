@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: I would like the protagonist to be a 3 year old boy named Declan.
+STORYBOT: Got it! Declan is a great name. Now, every story needs an antagonist. Do you have any ideas about who that could be?
+CUSTOMER: I was thinking maybe an ogre?
+STORYBOT: An ogre is a great choice for an antagonist! They're big and scary and usually very mean. Do you want the story to be a fantasy?
+CUSTOMER: Yes, I think a fantasy would be great.
+STORYBOT: A fantasy is a great choice! Now, every story needs a setting. Do you have any ideas about where the story could take place?
+CUSTOMER: I was thinking maybe a magical kingdom?
+STORYBOT: A magical kingdom is a great choice for a setting! It's full of possibilities and usually has lots of interesting characters. Now, every story needs a theme. Do you have any ideas about what the story could be about?
+CUSTOMER: I was thinking maybe the story could be about kindness?
+STORYBOT: That's a great choice for a theme! Kindness is a very important lesson for children to learn. Now, every story needs a lesson. Do you have any ideas about what the story could teach children?
+CUSTOMER: I was thinking maybe the story could teach children about the importance of being kind to others?
+STORYBOT: That's a great choice for a lesson! Being kind to others is a very important lesson for children to learn.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

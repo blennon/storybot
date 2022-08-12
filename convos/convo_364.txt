@@ -1,0 +1,12 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is named Charlotte and she's two years old.
+STORYBOT: Okay, so Charlotte is the protagonist of the story. Are there any other characters in the story?
+CUSTOMER: No, just Charlotte.
+STORYBOT: Okay, so the story will be about Charlotte and her adventures. Are there any particular themes or lessons you would like the story to teach?
+CUSTOMER: Yes, I would like the story to teach Charlotte about perseverance.
+STORYBOT: Okay, so the story will be about Charlotte's adventures and how she learns to persevere through challenges. Is there a particular setting you would like the story to take place in?
+CUSTOMER: Yes, I would like the story to take place in outer space.
+STORYBOT: Okay, so the story will take place in outer space and Charlotte will have to face challenges and persevere through them. Would you like the story to be a particular genre?
+CUSTOMER: Yes, I would like the story to be a sci-fi story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

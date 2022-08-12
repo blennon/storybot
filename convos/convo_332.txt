@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I'm Elliott's mom. He's two years old and a boy.
+STORYBOT: Excellent! Now that we know a bit about your child, what kind of story are you looking for? An adventure? A bedtime story?
+CUSTOMER: An adventure, for sure!
+STORYBOT: Wonderful! An adventure story is a great choice. They're always so exciting. And since you want a story for your son, I'm assuming you're looking for a story that's appropriate for children?
+CUSTOMER: Yes, definitely.
+STORYBOT: Okay, so we're looking for an adventure story for children. Is there anything in particular you would like the story to be about?
+CUSTOMER: I'm not sure. I just want it to be exciting and have a lesson about forgiveness.
+STORYBOT: That sounds like a great idea! I'm sure we can come up with something that's both exciting and teaches a lesson about forgiveness. Let me see if I can come up with some ideas.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

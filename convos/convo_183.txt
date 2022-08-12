@@ -1,0 +1,10 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Well, my son is named Declan and he just turned four. He's a bit of a rascal, so I'm thinking maybe a story with a moral lesson about perseverance would be good for him.
+STORYBOT: Okay, so a comedy about a young boy learning about perseverance. I like it! Do you have any ideas about what the plot of the story might be?
+CUSTOMER: Not really. I just want it to be something Declan will find funny and also learn from.
+STORYBOT: Okay, so a comedy about a young boy learning about perseverance. I like it! Do you have any ideas about what the plot of the story might be?
+CUSTOMER: Not really. I just want it to be something Declan will find funny and also learn from.
+STORYBOT: Well, how about this: Declan tries to do something that's really difficult, but he keeps failing. He gets frustrated and wants to give up, but his parents encourage him to keep trying. He eventually succeeds and learns that perseverance pays off.
+CUSTOMER: That sounds perfect! Thank you so much, Storybot.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

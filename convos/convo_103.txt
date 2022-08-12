@@ -1,0 +1,7 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The main character is my one year old nephew, Aidan. He's a boy.
+STORYBOT: Excellent! Now that I know a bit about Aidan, can you tell me what kind of story you had in mind? Is there a particular genre or theme you would like?
+CUSTOMER: I'm not really sure. I just want a story that's appropriate for a one year old and teaches them a lesson about perseverance.
+STORYBOT: I think I have the perfect story for Aidan then. It's a fantasy story about a young boy who goes on an amazing adventure. Along the way, he learns the importance of never giving up, no matter how hard things get. I'm sure he will love it!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

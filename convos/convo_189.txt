@@ -1,0 +1,10 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter's name is Harper, she's three years old and she's a girl.
+STORYBOT: Okay, Harper is a great name! And what is Harper like?
+CUSTOMER: Harper is very adventurous. She loves to explore and is always up for a challenge.
+STORYBOT: That sounds like a lot of fun! And what kind of adventure does Harper want to go on?
+CUSTOMER: I'm not really sure. She's never been very patient, so I want a story that will teach her about perseverance.
+STORYBOT: I think I know just the kind of story Harper would love. It's about a little girl who goes on a big adventure to find a lost treasure. Along the way she has to face many challenges, but she never gives up. She learns that with perseverance anything is possible.
+CUSTOMER: That sounds perfect! Harper will love it.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,14 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The main character is my 3 year old grandson, Theodore. He's a boy.
+STORYBOT: Got it! So Theodore is the star of our story. Are there any other characters in the story?
+CUSTOMER: Um, no. I want it to be just about Theodore.
+STORYBOT: Okay, so Theodore is the only character in the story. Is there anything else you can tell me about Theodore?
+CUSTOMER: He's a very honest boy.
+STORYBOT: That's great! An honest protagonist is always a refreshing change. What sort of adventure would Theodore like to go on?
+CUSTOMER: I'm not sure.
+STORYBOT: Well, let's see. Since Theodore is the only character in the story, it will be a very personal adventure for him. Perhaps he could learn a lesson about honesty?
+CUSTOMER: That sounds good.
+STORYBOT: Okay, so Theodore will go on a journey of self-discovery, learning about the importance of honesty. Does that sound good to you?
+CUSTOMER: Yes, that sounds perfect.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

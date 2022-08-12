@@ -1,0 +1,14 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Willow is my two year old niece. She's a happy and curious girl.
+STORYBOT: Excellent! So Willow is the main character of the story. Are there any other characters in the story?
+CUSTOMER: I was thinking her parents could be in it, and maybe a few of her friends from daycare.
+STORYBOT: Sounds like a great cast of characters! Now let's talk about the setting. Where does the story take place?
+CUSTOMER: I was thinking it could take place at her house, and maybe some of the places she goes to often, like the park or the grocery store.
+STORYBOT: That sounds like a great setting for the story. Now, what is the story about? Is there a problem that Willow has to solve?
+CUSTOMER: I was thinking that the story could be about Willow learning the importance of honesty.
+STORYBOT: That's a great lesson for a story. I'm sure the kids will love it. Now, what genre do you think the story should be?
+CUSTOMER: I was thinking a comedy. I want the kids to laugh while they're learning the lesson.
+STORYBOT: That sounds like a great idea! I'm sure the kids will love it.
+CUSTOMER: Thanks, Storybot. I think you've helped me figure out what I want the story to be about.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

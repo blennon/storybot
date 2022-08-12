@@ -1,0 +1,17 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I want the story to be about my three year old nephew, Rowan. He's a little boy.
+STORYBOT: Got it! So, Rowan is our protagonist. Now, do you want Rowan to go on an adventure or face a challenge?
+CUSTOMER: An adventure would be great!
+STORYBOT: Okay, an adventure it is! In every adventure story, there's got to be an obstacle or bad guy for our hero to overcome. Do you have anyone in mind?
+CUSTOMER: No, I don't know.
+STORYBOT: How about we make it a race against time? Rowan can have to save someone or something before it's too late.
+CUSTOMER: That sounds good!
+STORYBOT: Awesome! So, we've got our adventure and our obstacle. Now, let's set the story. Where does Rowan live?
+CUSTOMER: In the city.
+STORYBOT: Okay, so the story will take place in the city. Is there anything else you can tell me about the setting?
+CUSTOMER: Well, I want the story to teach my nephew a lesson about kindness.
+STORYBOT: That's a great lesson! How about we make the story about Rowan being kind to animals? He can help a lost puppy find its way home, for example.
+CUSTOMER: That's perfect!
+STORYBOT: Great! I think we have everything we need to write an amazing story for your nephew. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

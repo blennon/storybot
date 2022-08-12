@@ -1,0 +1,10 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My nephew is four years old and his name is Mateo. He's a very active little boy who loves to explore. I would like the story to be about a character who is also adventurous and curious, like Mateo.
+
+STORYBOT:
+
+Great, so your story will be about an adventurous little boy named Mateo. What else can you tell me about Mateo? Is there anything in particular that he likes or dislikes?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

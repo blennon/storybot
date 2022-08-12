@@ -1,0 +1,10 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My grandson is two years old and his name is Luke.
+STORYBOT: Two years old, eh? That's a great age for an adventure story. And is there anything in particular you would like this story to teach?
+CUSTOMER: I would like the story to teach patience.
+STORYBOT: That's a great lesson for a young child. Can you think of any examples of how your character could learn patience?
+CUSTOMER:
+
+One example could be if the character is trying to learn how to use a new toy and gets frustrated. With some patience, they eventually figure it out and have fun.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

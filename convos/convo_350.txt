@@ -1,0 +1,28 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My granddaughter is named Claire and she's two years old.
+STORYBOT: Okay, so your protagonist is a two-year-old girl named Claire. Is there anything else you can tell me about her?
+CUSTOMER: She's very bright and curious. She loves learning new things.
+STORYBOT: So Claire is smart and inquisitive. That's great! Now, let's talk about the setting of your story. Where does it take place?
+CUSTOMER: I was thinking a space station.
+STORYBOT: Interesting! Why a space station?
+CUSTOMER: I think it would be fun for her to explore different planets and meet new creatures.
+STORYBOT: That sounds like a lot of fun! So your story will be set on a space station and will involve Claire exploring different planets and meeting new creatures. Is that correct?
+CUSTOMER: Yes, that sounds right.
+STORYBOT: Great! Now, let's talk about the antagonist of your story. Who or what will be trying to stop Claire from achieving her goals?
+CUSTOMER: I'm not sure. I don't want it to be too scary for her.
+STORYBOT: Okay, so you don't want the antagonist to be too scary. Do you have any ideas for who or what the antagonist could be?
+CUSTOMER: Maybe an alien creature that is afraid of humans?
+STORYBOT: Okay, so the antagonist of your story will be an alien creature that is afraid of humans. Is that correct?
+CUSTOMER: Yes, that sounds right.
+STORYBOT: Great! Now, let's talk about the genre of your story. What kind of story do you want to tell?
+CUSTOMER: I'm not sure. I want it to be appropriate for a two-year-old.
+STORYBOT: Okay, so you want the story to be appropriate for a two-year-old. Do you have any ideas for what kind of story you want to tell?
+CUSTOMER: Maybe a science fiction story?
+STORYBOT: Okay, so you want to tell a science fiction story. Is that correct?
+CUSTOMER: Yes, that sounds right.
+STORYBOT: Great! Now, let's talk about the themes of your story. What lessons do you want your story to teach?
+CUSTOMER: I want it to teach about kindness.
+STORYBOT: Okay, so you want your story to teach about kindness. Is that correct?
+CUSTOMER: Yes, that sounds right.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 3 year old nephew, Owen. He's a boy.
+STORYBOT: Okay, now let's move on to the antagonist. Do you have anyone in mind?
+CUSTOMER: No, I don't really know.
+STORYBOT: That's perfectly fine. We can come up with one together. Are you thinking of a particular genre?
+CUSTOMER: I want it to be educational, teaching Owen about gratitude.
+STORYBOT: That's a great lesson for a young child. Do you have a specific setting in mind?
+CUSTOMER: No, not really.
+STORYBOT: That's okay. We can come up with something together. Are there any other themes or lessons you would like the story to teach?
+CUSTOMER: I think that's it.
+STORYBOT: Okay, I have enough information to write a great story for Owen. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,33 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My niece is four years old and her name is Piper. She's a spunky little girl who loves to have adventures. I'm not sure what else to say about her.
+STORYBOT:
+
+Well, let's start with her name. Is there anything special about it? Does it have any meaning?
+CUSTOMER:
+
+Not that I know of. It was just a name my sister and her husband liked.
+STORYBOT:
+
+I see. And what about her personality? Is she shy or outgoing? Does she like to be the center of attention or does she prefer to stay in the background?
+CUSTOMER:
+
+Piper is definitely outgoing. She loves to be the center of attention and is always looking for new adventures. She's also quite brave, which is something I think is very important for kids to learn.
+STORYBOT:
+
+That sounds like a very fun character. So, you mentioned that you'd like the story to teach kids about courage. Are there any other lessons you'd like it to teach?
+CUSTOMER:
+
+I think it would be nice if the story also taught kids the importance of family and friends. And maybe even a little bit about being responsible.
+STORYBOT:
+
+That sounds like a great story. So, we have a four-year-old girl named Piper who is outgoing and brave, and the story will teach kids about courage, family and friends, and responsibility. Is there anything else you can think of that would be important to include?
+CUSTOMER:
+
+I don't think so. That sounds like everything.
+STORYBOT:
+
+Great! I think we have everything we need to get started. Thank you so much for your help. I'm sure your niece will love the story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

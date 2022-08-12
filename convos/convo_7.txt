@@ -1,0 +1,16 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my one year old grandson, Aidan. He's a boy.
+STORYBOT: Okay, so your main character is a one year old boy named Aidan. Is there anything else you can tell me about him?
+CUSTOMER: He's a very happy and curious child. He loves to explore and is always getting into mischief.
+STORYBOT: Sounds like Aidan is a very active little boy. Are there any other characteristics you would like to include?
+CUSTOMER: He's also very kind and always looks out for others, even though he's still so young.
+STORYBOT: That's very sweet. Now that we know a little bit about Aidan, let's move on to the setting of the story. Where does Aidan live?
+CUSTOMER: He lives with his parents in a small town in the United States.
+STORYBOT: Okay, so Aidan lives in a small town in the United States. Is there anything else you can tell me about the setting?
+CUSTOMER: Not really. I just want it to be a typical American small town.
+STORYBOT: Okay, so a typical American small town. Is there anything else you would like to include in the story?
+CUSTOMER: I want it to be a comedy and I want it to teach a lesson about kindness.
+STORYBOT: Okay, so a comedy that teaches a lesson about kindness. Is there anything else you can tell me about the story?
+CUSTOMER: That's all I can think of for now.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

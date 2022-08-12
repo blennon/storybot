@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter is 1 year old and her name is Aurora.
+STORYBOT: Okay, Aurora is a great name! Now, what else can you tell me about her?
+CUSTOMER: She's very curious and loves to explore.
+STORYBOT: That sounds like a lot of fun! Is there anything else you can tell me about her?
+CUSTOMER: She's also very brave and always stands up for what she believes in.
+STORYBOT: Wow, she sounds like an amazing little girl! Now, what kind of story are you looking for? Is there a particular genre or theme you had in mind?
+CUSTOMER: I'm not really sure. I just want a story that's appropriate for a 1 year old and that teaches about gratitude.
+STORYBOT: That's a great idea! I think a sci-fi story would be perfect for Aurora. What do you think about that?
+CUSTOMER: I'm not sure. I've never really been a fan of sci-fi.
+STORYBOT: Well, let me tell you a little bit about the story. In it, Aurora would be on a space adventure with her friends. They would visit different planets and meet new creatures. Along the way, they would learn about the importance of being grateful for what they have.
+CUSTOMER: That actually sounds really fun! I think Aurora would love it.
+STORYBOT: I think so too! I'll get started on the story right away. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

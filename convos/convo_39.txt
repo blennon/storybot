@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My son is named Rowan and he is 2 years old.
+STORYBOT: Okay, so we are writing a story for a little boy named Rowan who is 2 years old. Is there anything else you can tell me about him that might be important for the story?
+CUSTOMER: He is very active and loves to explore. He is also very kind and always looks out for his little sister.
+STORYBOT: That's great! So our protagonist is an active and kind 2 year old boy. What about the setting of the story, where does it take place?
+CUSTOMER: I would like it to take place in our backyard.
+STORYBOT: That sounds like a great setting for a story about a young boy exploring and being kind. Are there any other characters in the story besides Rowan?
+CUSTOMER: Yes, his little sister Lila and our dog Max.
+STORYBOT: That sounds like a great cast of characters. So our story takes place in the backyard and follows the adventures of Rowan, his sister Lila, and their dog Max. Is there anything else you can tell me about the story that might be important?
+CUSTOMER: I would like it to be a educational story that teaches about kindness.
+STORYBOT: That sounds like a great goal for the story. I think we have everything we need to get started. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

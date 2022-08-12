@@ -1,0 +1,20 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is a one year old girl named Willow.
+STORYBOT: Got it. And what does Willow like to do?
+CUSTOMER: She likes to explore and play with her toys.
+STORYBOT: That sounds like fun. Are there any other details you can give me about Willow?
+CUSTOMER: She has a lot of energy and is very curious. She also has a short attention span.
+STORYBOT: Okay, so Willow is a one year old girl who likes to explore, play with her toys and has a lot of energy. Are there any other details you can give me about her?
+CUSTOMER: She is also very stubborn and has a hard time listening to her parents.
+STORYBOT: Okay, so Willow is a one year old girl who likes to explore, play with her toys, has a lot of energy and is also very stubborn. Does she have any siblings or other family members?
+CUSTOMER: She has an older sister who is 3 years old.
+STORYBOT: Okay, so Willow has an older sister. Are there any other details you can give me about her family?
+CUSTOMER: They live in a small town in the middle of nowhere.
+STORYBOT: Okay, so Willow lives in a small town in the middle of nowhere with her parents and older sister. Are there any other details you can give me about the town?
+CUSTOMER: Not really. It's just a small, boring town.
+STORYBOT: Okay, so Willow lives in a small, boring town in the middle of nowhere with her parents and older sister. Is there anything else you can tell me about the story?
+CUSTOMER: I want it to be educational and teach Willow about self-control.
+STORYBOT: Okay, so you want the story to be educational and teach Willow about self-control. Do you have any other ideas for the story?
+CUSTOMER: No, that's all I have for now.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

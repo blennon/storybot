@@ -1,0 +1,18 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Rowan is 3 years old and male.
+STORYBOT: Excellent! Now, what is your child's favorite activity?
+CUSTOMER: He loves to explore and build things.
+STORYBOT: That sounds like a lot of fun. Does Rowan have any friends that he likes to play with?
+CUSTOMER: No, he's an only child.
+STORYBOT: Okay, so Rowan is a bit of a lone wolf. Does he have any pets?
+CUSTOMER: No, we don't have any pets.
+STORYBOT: Well, Rowan sounds like a very independent little boy. Are there any other family members that he's close to?
+CUSTOMER: His grandparents live nearby and he loves spending time with them.
+STORYBOT: That's great. So, Rowan is a 3 year old boy who loves to explore and build things. He's an only child but he's close to his grandparents. Is there anything else you can tell me about him?
+CUSTOMER: He's really curious and loves learning new things.
+STORYBOT: That's terrific. So, Rowan is a 3 year old boy who loves to explore and build things. He's an only child but he's close to his grandparents. He's curious and loves learning new things. Is there anything else you can tell me about him?
+CUSTOMER:
+
+No, I think that's everything.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

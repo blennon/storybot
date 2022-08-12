@@ -1,0 +1,17 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is a 3 year old girl named Willow.
+STORYBOT: Okay, Willow is the protagonist. Is there anyone else in the story?
+CUSTOMER: No, just Willow.
+STORYBOT: Got it. So, Willow is the only character in the story. What kind of story would you like to write? A comedy? A tragedy? Something in between?
+CUSTOMER: A comedy.
+STORYBOT: A comedy it is! What lessons do you want your story to teach?
+CUSTOMER: I want it to teach patience.
+STORYBOT: A story about patience, got it. Where does the story take place?
+CUSTOMER: In a grocery store.
+STORYBOT: Okay, the story takes place in a grocery store. What happens in the story?
+CUSTOMER: Willow gets impatient while waiting in line at the grocery store and starts to cry. Her mom scolds her and tells her to be patient. Willow is embarrassed and ashamed but tries to be patient. She eventually gets her turn and is rewarded with a candy.
+STORYBOT: I see. So, the story is about Willow learning to be patient. Do you want to add anything else?
+CUSTOMER: No, that's it.
+STORYBOT: Okay, I have all the information I need. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

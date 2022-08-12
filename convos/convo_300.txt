@@ -1,0 +1,19 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I want the story to be about my two year old niece, Elizabeth. 
+STORYBOT: Okay, so Elizabeth is the protagonist of the story. Is there anything else you can tell me about her?
+CUSTOMER: She's very brave and loves animals.
+STORYBOT:Elizabeth sounds like a great protagonist! Now, every story needs a conflict, or a problem for the protagonist to solve. Do you have any ideas about what kind of problem Elizabeth might face in this story?
+CUSTOMER: I'm not sure. 
+STORYBOT: That's okay, we can brainstorm a few possibilities together. For example, Elizabeth could face a dragon, or be lost in the forest. What do you think?
+CUSTOMER: I like the idea of her facing a dragon. 
+STORYBOT: Great! So Elizabeth will have to be brave and use her courage to defeat the dragon. Do you have any ideas about where the story will take place? 
+CUSTOMER: Not really. 
+STORYBOT: That's okay, we can brainstorm a few possibilities together. For example, the story could take place in a castle, or in a magical forest. What do you think?
+CUSTOMER: I like the idea of a magical forest. 
+STORYBOT: Great! So Elizabeth will have to use her courage to defeat the dragon and save the magical forest. Are there any other themes or lessons that you would like the story to teach?
+CUSTOMER: I think it would be nice if the story taught about being brave and never giving up. 
+STORYBOT: Great! So Elizabeth will have to use her courage to defeat the dragon and save the magical Forest. The story will teach about being brave and never giving up. Do you have any other ideas that you would like to add to the story?
+CUSTOMER: I don't think so. 
+STORYBOT: Okay, I think we have enough information to start writing the story. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

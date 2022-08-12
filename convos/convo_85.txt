@@ -1,0 +1,10 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My nephew's name is Luke and he's 3 years old. He's a very active and curious boy, so I'm thinking a male protagonist would be good.
+
+STORYBOT:
+
+Great, now that we know the basics about your protagonist, what kind of story are you thinking of? A fantasy? Adventure? Comedy?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

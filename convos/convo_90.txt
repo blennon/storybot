@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter's name is Piper and she's 3 years old.
+STORYBOT: Okay, Piper is a great name! And what does Piper like to do?
+CUSTOMER: She loves to play with her toys, but she can get a little impatient sometimes.
+STORYBOT: I see. So, you want a story that will teach Piper about patience?
+CUSTOMER: Yes, I think that would be a good lesson for her.
+STORYBOT: There are a lot of great stories about patience. For example, "The Tortoise and the Hare" is a classic fable that teaches about the importance of taking your time and not rushing.
+CUSTOMER: That sounds perfect! I think my daughter would love that story.
+STORYBOT: Great! I'll get started on writing it for you.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,16 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My niece is two years old and her name is Luna. She's a happy and curious girl who loves to learn new things. I want the story to be educational, and to teach her a lesson about compassion.
+
+STORYBOT: Okay, so we're looking for a story about a two-year-old girl named Luna who learns a lesson about compassion. That sounds like a really sweet story. Can you tell me a little more about it? What is the story about?
+
+CUSTOMER:
+
+Well, I'm not sure exactly. I just know that I want it to be educational and to teach Luna a lesson about compassion. Perhaps the story could be about her helping a friend in need, or standing up for someone who is being treated unfairly.
+
+STORYBOT:
+
+That sounds like a really great story. I think your niece will love it. Can you tell me a little more about the setting? Where does the story take place?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

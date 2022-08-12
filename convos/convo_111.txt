@@ -1,0 +1,18 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is Quinn and she's one. And I want the story to be about an adventure that teaches self-control.
+STORYBOT: Wow, an adventure story about self-control! I love it. Let me ask you a few more questions so I can understand what you're looking for. Are you looking for a story with a moral lesson?
+CUSTOMER: Yes, I want the story to teach Quinn about self-control.
+STORYBOT: Okay, so you're looking for a story that has a moral lesson about self-control. Do you want the story to be about a specific character learning this lesson, or just have the theme of self-control throughout the story?
+CUSTOMER: I want the story to be about a specific character learning this lesson.
+STORYBOT: Okay, so you want the story to be about a character learning a lesson about self-control. Do you have any ideas about what kind of character this should be?
+CUSTOMER: I was thinking maybe a little girl, since Quinn is a girl.
+STORYBOT: Okay, so you want the story to be about a little girl learning a lesson about self-control. Do you have any ideas about what kind of adventure she could go on?
+CUSTOMER: I was thinking maybe she could go on a treasure hunt or something.
+STORYBOT: Okay, so you want the story to be about a little girl going on a treasure hunt and learning a lesson about self-control. Do you have any ideas about what kind of treasure she could be looking for?
+CUSTOMER: I was thinking maybe she could be looking for a lost toy or something.
+STORYBOT: Okay, so you want the story to be about a little girl going on a treasure hunt and finding a lost toy. Do you have any ideas about what the story could be called?
+CUSTOMER: I was thinking maybe "Quinn's Treasure Hunt."
+STORYBOT: Okay, so the story will be called "Quinn's Treasure Hunt." Do you have any other ideas about the story that you would like to share?
+CUSTOMER: I think that's all for now.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

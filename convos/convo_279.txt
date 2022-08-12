@@ -1,0 +1,17 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi, my name is Rowan and I'm 1 year old.
+STORYBOT: Alright, Rowan is a great name. Now, what else can you tell me about your character?
+CUSTOMER: Well, I'm a boy and I like to explore.
+STORYBOT: Sounds like you're quite the adventurous type. I bet you get into a lot of trouble.
+CUSTOMER: Yeah, I do. But I always learn my lesson in the end.
+STORYBOT: That's good to know. So you're looking for a story with a moral lesson then?
+CUSTOMER: Yes, I am.
+STORYBOT: Well, we can definitely write a story with that in mind. Now, let's talk about the setting. Where does your story take place?
+CUSTOMER: I'm not sure. Somewhere in space, I think.
+STORYBOT: Interesting. A space adventure. I like it. What else can you tell me about the setting?
+CUSTOMER: Well, there are these two planets that are always at war with each other.
+STORYBOT: Ah, so your story is about conflict then.
+CUSTOMER: Yes, it is.
+STORYBOT: Well, that's definitely an important lesson for kids to learn. And I think we can definitely write a great story with that in mind. Thanks for all your help, Rowan. I can't wait to get started on your story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My grandchild is a four year old girl named Piper. 
+STORYBOT: Okay, Piper is a great name! And what does Piper look like?
+CUSTOMER: She has blonde hair and blue eyes.
+STORYBOT: That's very pretty. What is Piper's personality like?
+CUSTOMER: She's very curious and loves to explore. She's also very kind and always looks out for her little sister.
+STORYBOT: That sounds like a great protagonist for a story! What is the story about?
+CUSTOMER: I'm not really sure. I just want it to be a fantasy story that teaches about gratitude.
+STORYBOT: Okay, that sounds like a great idea! I'm sure we can come up with a great story that teaches about gratitude. Do you have any ideas about what the story might be about?
+CUSTOMER: Not really. I just want it to be a fun story that my grandchild will enjoy.
+STORYBOT: Okay, I think we can definitely come up with a story that your grandchild will enjoy. Let me ask you some questions and we'll see what we can come up with.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

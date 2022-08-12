@@ -1,0 +1,17 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is 4 years old and her name is Addison. She's a girl.
+STORYBOT: Wonderful! And what is your main character's personality like?
+CUSTOMER: Addison is very kind. She always looks out for other people and always tries to help them.
+STORYBOT: That sounds like a great protagonist! And what about the setting of the story?
+CUSTOMER: I want it to be a fantasy world.
+STORYBOT: That's a great setting for a story. And what kind of lessons do you want your story to teach?
+CUSTOMER: I want it to teach about kindness.
+STORYBOT: That's a great lesson for a story. And what is the genre of the story?
+CUSTOMER: I'm not sure. Maybe a fairy tale?
+STORYBOT: That's a great genre for a story. And what is the conflict of the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's a great conflict for a story. And what is the resolution of the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's a great resolution for a story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

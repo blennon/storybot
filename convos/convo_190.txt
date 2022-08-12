@@ -1,0 +1,12 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter is 1 year old and her name is Willow.
+STORYBOT: Got it! So Willow is the main character. What else can you tell me about her?
+CUSTOMER: Willow is a very curious girl. She loves to explore and learn new things.
+STORYBOT: Sounds like Willow is quite the adventurer! I bet she would love a story with lots of exciting adventures in it. Are there any other themes or lessons you would like the story to teach?
+CUSTOMER: I would like the story to teach Willow about gratitude.
+STORYBOT: That's a great lesson for a story. I'm sure Willow will love it. Are there any other details you can tell me about the story?
+CUSTOMER:
+
+No, I think that's everything.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

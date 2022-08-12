@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 3 year old niece, Addison. 
+STORYBOT: Great! Is there anything else you can tell me about her?
+CUSTOMER: She's very active and loves to play outside. She's also very impatient and gets frustrated easily.
+STORYBOT: Sounds like she would be a great protagonist for a comedy! And since you want the story to teach your niece about patience, I think it would be fun to have her go on some kind of adventure where she has to be patient. 
+CUSTOMER: That sounds like a great idea!
+STORYBOT: I'm glad you think so! I'll get started on writing the story right away.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

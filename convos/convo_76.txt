@@ -1,0 +1,17 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my one year old nephew, Declan. He's a boy.
+STORYBOT: Okay, so Declan is the star of the story. Is there anyone or anything that he'll be up against? An antagonist of some sort?
+CUSTOMER: I'm not really sure. I want the story to be about him overcoming some kind of challenge.
+STORYBOT: Well, in that case, maybe the antagonist could be something like a dragon or a villain.
+CUSTOMER: I like that!
+STORYBOT: Great! Now, what genre do you think the story should be? A fairy tale? An adventure?
+CUSTOMER: An adventure would be great!
+STORYBOT: Okay, so Declan will be going on an adventure. Where do you think it should take place?
+CUSTOMER: I was thinking maybe a fantasy world.
+STORYBOT: Okay, so Declan will be going on an adventure in a fantasy world. Is there anything else you can tell me about the story?
+CUSTOMER: I want it to be a story about perseverance.
+STORYBOT: Okay, so the story will be about Declan's adventure and him learning to persevere. Is there anything else you can tell me about the story?
+CUSTOMER: I think that's it!
+STORYBOT: Okay, great! I think I have enough information to write an amazing story for Declan. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

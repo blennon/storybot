@@ -1,0 +1,26 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I want the story to be about my 3 year old nephew, Benjamin. He's a boy.
+STORYBOT: Okay, so the story will be about a 3 year old boy named Benjamin. Is there anything else you can tell me about him?
+CUSTOMER: Well, he's a very kind child. He always goes out of his way to help others, even if they don't really need it.
+STORYBOT: That's very sweet. So the story will be about a 3 year old boy named Benjamin who is kind and helpful. Is there anything else you can tell me about him?
+CUSTOMER: That's all I can think of for now.
+STORYBOT: Okay, so the story will be about a 3 year old boy named Benjamin who is kind and helpful. Do you have any ideas about what kind of story you would like this to be? It can be anything from a bedtime story to an educational story.
+CUSTOMER: I was thinking maybe an educational story.
+STORYBOT: Okay, an educational story. Do you have any ideas about what kind of lesson you would like this story to teach?
+CUSTOMER: I was thinking maybe a story about compassion.
+STORYBOT: Okay, a story about compassion. Do you have any ideas about what the story would be about?
+CUSTOMER: Well, I was thinking maybe a story about a child who is kind and helpful, and shows compassion to others.
+STORYBOT: Okay, so the story will be about a child who is kind and helpful, and shows compassion to others. Do you have any ideas about what the setting of the story would be?
+CUSTOMER: I'm not sure.
+STORYBOT: Okay, let me suggest a few options. The story could take place in a school, at home, or in the community. Which of these do you think would be the best setting for the story?
+CUSTOMER: I think the story could take place in the community.
+STORYBOT: Okay, the story will take place in the community. Do you have any ideas about what the story would be about?
+CUSTOMER: Well, I was thinking maybe a story about a child who is kind and helpful, and shows compassion to others.
+STORYBOT: Okay, so the story will be about a child who is kind and helpful, and shows compassion to others. Would you like the story to have a happy ending or a lesson learned?
+CUSTOMER: A happy ending would be nice.
+STORYBOT: Okay, a happy ending. Do you have any other ideas about the story?
+CUSTOMER: That's all I can think of for now.
+STORYBOT: Okay, so the story will be about a child who is kind and helpful, and shows compassion to others. The story will have a happy ending. Is there anything else you would like to add?
+CUSTOMER: That's all for now. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

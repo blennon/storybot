@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Charlotte is my one year old granddaughter. She's a girl.
+STORYBOT: Okay, Charlotte is a one year old girl. What else can you tell me about her?
+CUSTOMER: She's very curious and loves to explore. She's also very compassionate, always wanting to help others.
+STORYBOT: That sounds like a great start for a main character! Now, every story needs a conflict, or a problem for the main character to solve. Can you think of any problems Charlotte might face in your story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can brainstorm a few possible problems together. For example, Charlotte might be trying to help a friend who is having a hard time, but she doesn't know how. Or, she might be curious about something dangerous and want to explore it, even though she knows she shouldn't. Do either of those sound like something Charlotte might face in your story?
+CUSTOMER: I like the first one, where she's trying to help a friend.
+STORYBOT: Great! So in your story, Charlotte will be trying to help a friend who is having a hard time. Do you have any ideas about what kind of trouble your friend might be in?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

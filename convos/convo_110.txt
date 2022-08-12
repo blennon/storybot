@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 4 year old grandson, Rowan. He's a boy.
+STORYBOT: Excellent! Now that we know a bit about your protagonist, let's move on to the antagonist. Do you have any ideas for who or what that might be?
+CUSTOMER: I was thinking maybe a dragon?
+STORYBOT: A dragon sounds like a great choice for an antagonist! Now, what kind of story would you like to write? Is it a fairytale, a comedy, or something else entirely?
+CUSTOMER: An adventure story.
+STORYBOT: An adventure story sounds perfect for a little boy like Rowan! Where does this adventure take place?
+CUSTOMER: I was thinking maybe in a castle?
+STORYBOT: A castle sounds like a great setting for an adventure story! Are there any specific themes or lessons you would like to include in the story?
+CUSTOMER: I was thinking maybe a lesson on patience?
+STORYBOT: A lesson on patience sounds like a great idea for an adventure story! I think we have everything we need to get started. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

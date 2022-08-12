@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Aidan is a one year old boy.
+STORYBOT: That's great! So your story will be about a one year old boy named Aidan. Do you have any ideas about what the story will be about?
+CUSTOMER: I was thinking maybe a comedy?
+STORYBOT: A comedy, that sounds great! What kind of lessons do you want your child to learn from the story?
+CUSTOMER: I want the story to teach Aidan about gratitude.
+STORYBOT: That's a great lesson for a child to learn! I'm sure we can come up with a funny story that will teach Aidan about gratitude. Let me ask you a few more questions and then I'll get started on the story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,7 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I'm the uncle of a 1 year old boy named Elliott.
+STORYBOT: Okay, so we're writing a story for a one year old boy named Elliott. Got it. Now, what kind of story are you looking to write? A comedy? A tragedy? Something in between?
+CUSTOMER: I want a comedy story that teaches about compassion.
+STORYBOT: Excellent! A comedy that teaches about compassion. That sounds like a great story for a 1 year old. Now, do you have any ideas about what the story might be about?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

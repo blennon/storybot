@@ -1,0 +1,17 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi Storybot. My son is two years old and his name is Rowan. 
+STORYBOT: Hi Rowan! What a great name. 
+CUSTOMER: He's a happy kid and very curious. 
+STORYBOT: That sounds like the perfect personality for a main character. Are there any other traits you would like to share about Rowan?
+CUSTOMER: He loves to laugh and make others laugh. He's also very compassionate.
+STORYBOT: That's wonderful. A story with a main character like Rowan is sure to be a hit with other kids. 
+
+Now, every story needs a conflict or problem for the main character to solve. Do you have any ideas about what Rowan's story could be about?
+CUSTOMER: I'm not sure. I want it to be a comedy, but I also want it to teach a lesson about compassion.
+STORYBOT: That's a great idea! I'm sure we can come up with a story that does both. Let me see if I can come up with a few ideas. 
+
+One option for a story could be about a time when Rowan was very compassionate. Maybe he helped a friend in need or did something kind for someone. 
+
+Another option could be a comedy about a time when Rowan tried to be compassionate, but it didn't quite go as planned. Either way, I'm sure we can come up with a great story that both you and your son will love.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

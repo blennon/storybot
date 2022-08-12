@@ -1,0 +1,24 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my 4 year old nephew, Rowan. He's a boy.
+STORYBOT: Okay, Rowan is the star of the story. Do you want the story to be about him going on an exciting adventure or learning an important lesson?
+CUSTOMER: I want the story to be about him learning an important lesson.
+STORYBOT: What kind of lesson do you want him to learn?
+CUSTOMER: I want him to learn about honesty.
+STORYBOT: That's a great lesson for a young boy to learn. Do you want the story to be set in the real world or in a fantasy world?
+CUSTOMER: I want the story to be set in a fantasy world.
+STORYBOT: That's great! A fantasy world can be a really exciting place for a young boy to explore. Do you have any ideas about what kind of fantasy world you would like the story to be set in?
+CUSTOMER: I want the story to be set in a castle.
+STORYBOT: That sounds like a really cool setting for a story. Do you want there to be any danger or conflict in the story?
+CUSTOMER: I want there to be some danger or conflict in the story.
+STORYBOT: That's great! A little bit of danger or conflict can make the story more exciting for a young boy to read. Do you have any ideas about what kind of danger or conflict you would like the story to be about?
+CUSTOMER: I want the story to be about honesty.
+STORYBOT: That's a great lesson for a young boy to learn. Do you want the story to be set in the real world or in a fantasy world?
+CUSTOMER: I want the story to be set in a fantasy world.
+STORYBOT: That's great! A fantasy world can be a really exciting place for a young boy to explore. Do you have any ideas about what kind of fantasy world you would like the story to be set in?
+CUSTOMER: I want the story to be set in a castle.
+STORYBOT: That sounds like a really cool setting for a story. Do you want there to be any danger or conflict in the story?
+CUSTOMER: I want there to be some danger or conflict in the story.
+STORYBOT: That's great! A little bit of danger or conflict can make the story more exciting for a young boy to read. Do you have any ideas about what kind of danger or conflict you would like the story to be about?
+CUSTOMER: I want the story to be about honesty.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

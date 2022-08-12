@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Willow is 3 years old and she's a girl.
+STORYBOT: Okay, Willow is a great name. Do you have any other information about her that you can share?
+CUSTOMER: She's very curious and loves to explore. She's also very determined, once she sets her mind to something she'll do whatever it takes to achieve it.
+STORYBOT: That sounds like a lot of fun. So Willow is a very active child?
+CUSTOMER: Yes, she loves to be on the move. She's always running and climbing.
+STORYBOT: That's great. So Willow is a very physical child. Are there any other aspects of her personality that you can tell me about?
+CUSTOMER: She's also very impulsive and doesn't always think things through before she acts. She's also very emotional and gets upset easily.
+STORYBOT: That's helpful to know. So Willow is a child who is very active, impulsive and emotional. Would you like a story that is about her learning to control her impulses and emotions?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

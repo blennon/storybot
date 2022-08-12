@@ -1,0 +1,26 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I'm writing for my 3 year old nephew, Declan. He's a boy.
+STORYBOT: Okay, got it. Declan is a young boy. Is there anything else you can tell me about him?
+CUSTOMER: He's very active and curious. He loves learning new things.
+STORYBOT: Sounds like he would be a great protagonist for a comedy story. Do you want the story to teach your nephew a lesson?
+CUSTOMER: Yes, I want the story to teach him about honesty.
+STORYBOT: That's a great lesson for a young boy to learn. I'm sure Declan will enjoy a story about honesty. Do you have any ideas about what the story should be about?
+CUSTOMER: Not really. I'm not sure what kind of story would be appropriate for a 3 year old.
+STORYBOT: That's okay. I can help you figure that out. Let me ask you some questions about the kind of story you want. Do you want it to be a fairytale, a fable, or something else?
+CUSTOMER: I'm not sure. What's the difference?
+STORYBOT: A fairytale is a story that usually has magical elements in it, like princesses and dragons. A fable is a story that has a moral lesson at the end.
+CUSTOMER: I want a story with a moral lesson.
+STORYBOT: Okay, a fable would be a great choice. Do you want the story to be about Declan or someone else?
+CUSTOMER: I want it to be about Declan.
+STORYBOT: Okay, the story will be about Declan. Do you want it to take place in his home, at school, or in some other location?
+CUSTOMER: At school would be good.
+STORYBOT: Okay, the story will take place at school. Do you have any ideas about what the story should be about?
+CUSTOMER: Not really. I'm not sure what kind of story would be appropriate for a 3 year old.
+STORYBOT: That's okay. I can help you figure that out. Let me ask you some questions about the kind of story you want. Do you want it to be a fairytale, a fable, or something else?
+CUSTOMER: I want a story with a moral lesson.
+STORYBOT: Okay, a fable would be a great choice. Do you want the story to be about Declan or someone else?
+CUSTOMER: I want it to be about Declan.
+STORYBOT: Okay, the story will be about Declan. Do you want it to take place in his home, at school, or in some other location?
+CUSTOMER: At school would be good.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

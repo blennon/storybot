@@ -1,0 +1,20 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My daughter is one year old and her name is Aria.
+STORYBOT: Okay, Aria is a great name. Now, what else can you tell me about your story's main character? Is there anything in particular you would like your story to teach?
+CUSTOMER: I want the story to be about courage.
+STORYBOT: That's a great lesson for a story. Is there anything else you can tell me that would help me write the best story for Aria?
+CUSTOMER: I'm not sure.
+STORYBOT: Well, let me ask you some questions then. What kind of setting would you like the story to take place in?
+CUSTOMER: I would like it to be a sci-fi setting.
+STORYBOT: That's great. Now, what is the main conflict in the story? What is your character trying to achieve?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. Let me give you some options. Would you like the story to be about Aria trying to find her way home after getting lost in space, or about her having to stop an evil alien from taking over the Earth?
+CUSTOMER: The second one.
+STORYBOT: Great choice. In the story, how does Aria defeat the evil alien?
+CUSTOMER: I'm not sure.
+STORYBOT: Well, let me give you some options. Would you like Aria to use her smarts to outwit the alien, or her bravery to stand up to it?
+CUSTOMER: The second one.
+STORYBOT: Great choice. So, Aria is brave and defeats the evil alien by standing up to it. Would you like the story to have a happy ending or a more suspenseful one?
+CUSTOMER: A happy ending.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

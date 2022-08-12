@@ -1,0 +1,13 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I would like the main character to be a 1 year old girl named Quinn.
+STORYBOT: Okay, so Quinn is the main character. Is there anything else you can tell me about her?
+CUSTOMER: She's very adventurous and loves to explore. She's also very curious and loves to ask questions.
+STORYBOT: Sounds like Quinn is going to be a great protagonist! Now, every story needs an antagonist. Do you have any ideas for who that could be?
+CUSTOMER: I'm not sure. Maybe a dragon?
+STORYBOT: A dragon sounds like a great choice for an antagonist! Now, let's talk about the story's setting. Where do you envision the story taking place?
+CUSTOMER: I'm not sure. Maybe a magical kingdom?
+STORYBOT: A magical kingdom sounds like a great setting for a fantasy story! Now, let's talk about the story's themes. What lessons do you want your story to teach?
+CUSTOMER: I want the story to teach about perseverance.
+STORYBOT: Sounds like you have a great story idea! I can't wait to write it with you!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

@@ -1,0 +1,10 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER:
+
+My niece is 4 years old and her name is Charlotte. She's a very active and curious little girl.
+
+STORYBOT:
+
+Great, so Charlotte is the main character in this story. Are there any other characters that are important to the story?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

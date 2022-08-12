@@ -1,0 +1,32 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is two years old and her name is Willow. She's very curious and loves to explore.
+STORYBOT: That sounds like a great protagonist for a story! What else can you tell me about Willow?
+CUSTOMER: She's very stubborn and doesn't like to listen to anyone. She's also very independent and doesn't like being told what to do.
+STORYBOT: That sounds like she could be a great protagonist for a story about independence and learning to listen. Is there anything else you can tell me about Willow that you think would be important for the story?
+CUSTOMER: She's very forgiving. No matter what someone does to her, she always forgives them.
+STORYBOT: That's a great quality for a protagonist to have! Forgiveness is an important lesson for children to learn. Is there anything else you can tell me about Willow that you think would be important for the story?
+CUSTOMER: I don't think so. That's everything I can think of that would be important for the story.
+STORYBOT: Okay, thanks for telling me about Willow. Now I'm going to need to know a little bit about the antagonist of the story. Do you have any ideas about who that could be?
+CUSTOMER: I'm not sure. I want it to be someone who Willow can learn from, but I'm not sure who that would be.
+STORYBOT: That's a great idea! The antagonist doesn't necessarily have to be a bad person, but someone who Willow can learn from. Do you have any ideas about who that could be?
+CUSTOMER: I'm not sure. I want it to be someone who Willow can learn from, but I'm not sure who that would be.
+STORYBOT: The antagonist could be anyone who Willow has to overcome in the story. For example, it could be a bully at school or a difficult teacher. Do you have any ideas about who that could be?
+CUSTOMER: I'm not sure. I want it to be someone who Willow can learn from, but I'm not sure who that would be.
+STORYBOT: The antagonist could be anyone who Willow has to overcome in the story. For example, it could be a bully at school or a difficult teacher. Do you have any other ideas about who the antagonist could be?
+CUSTOMER: I'm not sure. I want it to be someone who Willow can learn from, but I'm not sure who that would be.
+STORYBOT: Okay, we'll come back to the antagonist later. Let's move on to the setting of the story. Do you have any ideas about where the story could take place?
+CUSTOMER: I'm not sure. Somewhere that Willow can learn about forgiveness, I guess.
+STORYBOT: That's a great idea! The story could take place anywhere that Willow can learn about forgiveness. For example, it could take place at school, at home, or even on a playground. Do you have any other ideas about where the story could take place?
+CUSTOMER: I'm not sure. Somewhere that Willow can learn about forgiveness, I guess.
+STORYBOT: Okay, we'll come back to the setting later. Let's move on to the genre of the story. Do you have any ideas about what genre the story could be?
+CUSTOMER: I'm not sure. Maybe something educational?
+STORYBOT: That's a great idea! The story could be educational and teach kids about forgiveness. Do you have any other ideas about what genre the story could be?
+CUSTOMER: I'm not sure. Maybe something educational?
+STORYBOT: Okay, we'll come back to the genre later. Let's move on to the themes of the story. Do you have any ideas about what themes you would like the story to explore?
+CUSTOMER: I want the story to be about forgiveness.
+STORYBOT: That's a great idea! The story could explore the theme of forgiveness and how to forgive others. Do you have any other ideas about what themes you would like the story to explore?
+CUSTOMER: I want the story to be about forgiveness.
+STORYBOT: Okay, we'll come back to the themes later. Let's move on to the lessons that you would like the story to teach. Do you have any ideas about what lessons you would like the story to teach?
+CUSTOMER: I want the story to teach kids about forgiveness.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

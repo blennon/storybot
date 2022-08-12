@@ -1,0 +1,20 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is my two year old nephew, Aidan. He's a boy.
+STORYBOT: Okay, Aidan is the star of the show. Do you want the story to be about him going on an adventure or learning a lesson?
+CUSTOMER: I would like the story to be about him learning a lesson.
+STORYBOT: What kind of lesson do you want Aidan to learn?
+CUSTOMER: I would like the story to teach him about perseverance.
+STORYBOT: That's a great lesson for Aidan to learn! Do you want the story to take place in a specific location or time period?
+CUSTOMER: No, I don't think so.
+STORYBOT: Okay, the story can take place in any location then. Do you want me to suggest some possible plots or do you have something in mind already?
+CUSTOMER: I'm not sure. I would like some suggestions.
+STORYBOT: Okay, here are some possible plots for the story:
+
+1. Aidan meets a new friend who is facing a challenge. Aidan helps his friend overcome the challenge by being supportive and encouraging.
+2. Aidan gets lost in a familiar place. He uses his perseverance to find his way back home.
+3. Aidan wants to learn how to do something new. He perseveres through the difficulties and ultimately succeeds.
+
+CUSTOMER: I like plot number 3.
+STORYBOT: Great! I'll start writing the story with Aidan learning how to do something new. Thanks for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

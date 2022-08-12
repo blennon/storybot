@@ -1,0 +1,12 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is 3 years old and her name is Charlotte.
+STORYBOT: What a lovely name! And what would you like the story to be about?
+CUSTOMER: I would like the story to be about honesty.
+STORYBOT: That's a great lesson for a young child! Can you think of any other themes or lessons you would like the story to teach?
+CUSTOMER: I would like the story to teach about being kind and helpful.
+STORYBOT: That's great! So the story will be about honesty, kindness and helping others. What do you think the setting of the story should be?
+CUSTOMER: I would like the story to be set in a park.
+STORYBOT: That sounds like a great setting for a story about honesty and kindness. Are there any other elements you would like to add to the story?
+CUSTOMER: I think that's all.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

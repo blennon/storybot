@@ -1,0 +1,11 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: James is my grandson. He's two years old.
+STORYBOT: Okay, so your story will be about a two-year-old boy named James. Do you have any other information about him that you can share?
+CUSTOMER: He's very smart for his age.
+STORYBOT: So your story will be about a smart two-year-old boy named James. Is there anything else you can tell me about him?
+CUSTOMER: He loves animals, and his favorite is a dog.
+STORYBOT: So your story will be about a smart two-year-old boy named James who loves animals, and his favorite is a dog. Is there anything else you can tell me about the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. Sometimes it takes a little time to figure out all the details of a story. Let's move on to the next question. Every great story has a conflict, or a problem, that the main character has to solve. Do you have any ideas about what kind of problem your story's main character, James, might have to solve?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

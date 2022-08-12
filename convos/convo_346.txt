@@ -1,0 +1,17 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi Storybot. My son is Kai and he's 2 years old.
+STORYBOT: Okay, so we're writing a story for a 2 year old boy named Kai. Is there anything else you can tell me about him?
+CUSTOMER: He's very adventurous and loves to explore.
+STORYBOT: That sounds like a lot of fun! So Kai is our main character and he's 2 years old. He's adventurous and likes to explore. Are there any other characters in the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. We can always add more characters later. For now, let's focus on Kai. What does he do in the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. We can always figure that out later. For now, let's focus on the setting. Where does the story take place?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. We can always figure that out later. For now, let's focus on the theme. What lesson do you want your child to learn from the story?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. We can always figure that out later. For now, let's focus on the genre. Is this a story about pirates, dinosaurs, space, fairies, etc?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay. We can always figure that out later. Let me ask you a few more questions and then we'll have a better idea of what kind of story you want to write.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

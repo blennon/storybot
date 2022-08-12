@@ -1,0 +1,17 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: The protagonist is Harper, she's 4 years old, and she's a girl.
+STORYBOT: Okay, now let's move on to the antagonist. Do you have anyone in mind?
+CUSTOMER: I'm not sure, I was thinking maybe a dragon?
+STORYBOT: That sounds like a great idea! Harper can be on a quest to defeat the dragon and save the kingdom!
+CUSTOMER: I like that, but I also want the story to teach her about compassion.
+STORYBOT: That's a great lesson to teach! Harper can learn about compassion by helping the dragon and understanding why it's important to be kind.
+CUSTOMER: I like that idea.
+STORYBOT: Great! Now let's move on to the setting. Where does the story take place?
+CUSTOMER: I was thinking maybe a magical kingdom?
+STORYBOT: That sounds perfect! Harper can go on an adventure in the magical kingdom and learn about compassion along the way.
+CUSTOMER: I like that idea.
+STORYBOT: Great! Now let's move on to the genre. What type of story would you like to write?
+CUSTOMER: I was thinking maybe a fantasy story?
+STORYBOT: That sounds perfect! Harper can go on an adventure in the magical kingdom and learn about compassion along the way.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

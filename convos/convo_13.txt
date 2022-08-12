@@ -1,0 +1,22 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: My niece is 3 years old and her name is Willow.
+STORYBOT: Okay, Willow is a great name. Is there anything else you can tell me about Willow?
+CUSTOMER: She's very adventurous and loves to explore. She's also very curious and always asking questions.
+STORYBOT: That sounds like a lot of fun. Are there any other important details about Willow that you want to include?
+CUSTOMER: She has a lot of energy and is always on the go. She's also very determined and always sticks to her goals.
+STORYBOT: That sounds like a great protagonist for a story. Now, every good story needs a conflict or problem for the protagonist to solve. Do you have any ideas for what kind of problem Willow could face in her story?
+CUSTOMER: I'm not sure. I want it to be a sci-fi story, but I'm not sure what kind of problem would be appropriate for a 3 year old.
+STORYBOT: That's a great genre for a story. I'm sure we can come up with a problem that's appropriate for Willow. Let me think for a moment.
+
+STORYBOT: I've got it! What if Willow's spaceship crashes on an unknown planet? She has to find a way to repair the ship and find a way back home. Along the way, she has to use her wits and courage to overcome the challenges she faces.
+CUSTOMER: That sounds like a great story. I like the idea of Willow having to use her resourcefulness to solve problems.
+STORYBOT: I think that's a great idea. Now, every good story needs a setting. Where do you want Willow's story to take place?
+CUSTOMER: I'm not sure. I want it to be a sci-fi story, so maybe somewhere in space?
+STORYBOT: That's a great idea. How about Willow's story takes place on a deserted planet? She has to find a way to repair her ship and find a way back home. Along the way, she has to use her wits and courage to overcome the challenges she faces.
+CUSTOMER: That sounds like a great story. I like the idea of Willow having to use her resourcefulness to solve problems.
+STORYBOT: I think that's a great idea. Now, every good story needs a setting. Where do you want Willow's story to take place?
+CUSTOMER: I'm not sure. I want it to be a sci-fi story, so maybe somewhere in space?
+STORYBOT: That's a great idea. How about Willow's story takes place on a deserted planet? She has to find a way to repair her ship and find a way back home. Along the way, she has to use her wits and courage to overcome the challenges she faces.
+CUSTOMER: That sounds like a great story. I like the idea of Willow having to use her resourcefulness to solve problems.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

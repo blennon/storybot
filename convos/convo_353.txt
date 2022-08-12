@@ -1,0 +1,20 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I would like the protagonist to be a 3 year old girl named Elizabeth.
+STORYBOT: Okay, Elizabeth is a great name! Is there anything else you can tell me about her?
+CUSTOMER: She's very curious and loves to explore. She's also very kind and always looks out for her friends.
+STORYBOT: That sounds like a great start! Now, every story needs a conflict or problem for the protagonist to solve. Can you think of anything Elizabeth might face in your story?
+CUSTOMER: Hmm, I want it to be a fantasy story, so maybe she could be trying to find a way to help her friends in a time of need.
+STORYBOT: Okay, so Elizabeth will be trying to help her friends in a time of need. Do you have any ideas about what kind of time of need they might be facing?
+CUSTOMER: Perhaps they could be in danger from a dragon or some other creature?
+STORYBOT: Okay, so Elizabeth and her friends will be in danger from a dragon. Do you have any ideas about what Elizabeth will need to do to help them?
+CUSTOMER: She could try to find a way to defeat the dragon or at least drive it away.
+STORYBOT: Okay, so Elizabeth will be trying to find a way to defeat the dragon. Do you have any ideas about where the story will take place?
+CUSTOMER: I was thinking maybe she could live in a small village near a forest.
+STORYBOT: Okay, so Elizabeth will live in a small village near a forest. Do you have any ideas about what the story might be about?
+CUSTOMER: I want it to be a story about gratitude.
+STORYBOT: Okay, so Elizabeth will learn about gratitude in your story. Do you have any ideas about what else might happen in the story?
+CUSTOMER: Perhaps she could learn that being grateful for what she has, even if it's not much, can help her in her time of need.
+STORYBOT: Okay, so Elizabeth will learn about gratitude and how it can help her in her time of need. Do you have any other ideas about the story?
+CUSTOMER: That's all I have for now.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

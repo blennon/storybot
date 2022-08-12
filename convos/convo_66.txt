@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Harper is my one year old daughter.
+STORYBOT: Harper is a great name! So she's the protagonist of the story then. As for age and gender, does she have any siblings?
+CUSTOMER: No, she's an only child.
+STORYBOT: Okay, so Harper is a one year old female with no siblings. Is there anything else you can tell me about her that might be important for the story?
+CUSTOMER: She's very adventurous and loves to explore. She's also very brave.
+STORYBOT: That sounds like our Harper is quite the heroine! So the story will be about her adventures and her courage. Are there any specific lessons you would like the story to teach?
+CUSTOMER: I would like the story to teach her about being brave and facing her fears.
+STORYBOT: That's a great lesson for a story. Harper sounds like she's going to have a lot of fun adventures while she learns about being brave. Are there any other themes or lessons you would like the story to include?
+CUSTOMER: I think that's it for now.
+STORYBOT: Okay, so the story will be about Harper's adventures, with a focus on bravery and facing her fears. Is there anything else you can tell me about the story that you would like me to know?
+CUSTOMER: I'm not sure.
+STORYBOT: That's okay, we can always come back to that later. For now, let's move on to the setting. Where will the story take place?
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

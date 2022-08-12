@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi Storybot. The main character is my 4 year old niece, Charlotte. 
+STORYBOT: Wonderful! And what does Charlotte like to do?
+CUSTOMER: Charlotte loves to play with her toys and imagine she's in different places.
+STORYBOT: That sounds like a lot of fun. So, Charlotte is probably a very imaginative little girl. Is there anything else you can tell me about her?
+CUSTOMER: She's very kind and always looks out for her friends.
+STORYBOT: That's lovely. So, your story will be about a kind little girl who likes to use her imagination. Are you thinking of any particular genre or setting for the story?
+CUSTOMER: I was thinking maybe a science fiction story?
+STORYBOT: That's an excellent choice. A science fiction story can be a lot of fun, and it can also teach kids about important topics like being kind to others. Would you like the story to be about Charlotte being kind to her friends, or maybe about her making new friends on her adventures?
+CUSTOMER: Charlotte making new friends on her adventures.
+STORYBOT: That sounds like a great idea. I'm sure your niece will love it. Are there any other themes or lessons you would like the story to teach?
+CUSTOMER: Maybe the importance of being brave and never giving up on yourself?
+STORYBOT: That's a great lesson for kids to learn. I'm sure Charlotte will be a brave and determined heroine in your story. Thanks for your help. I think I have everything I need to get started.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

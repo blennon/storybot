@@ -1,0 +1,15 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! My protagonist is a one year old girl named Harper.
+STORYBOT: Got it. One year old Harper is our protagonist. Now, every good story needs an antagonist. Do you have any ideas about who or what that could be?
+CUSTOMER: Not really. I was thinking maybe an alien?
+STORYBOT: Okay, an alien could be a good choice for an antagonist. Let me ask, is there any particular genre you had in mind for this story?
+CUSTOMER: I was thinking maybe a science fiction story?
+STORYBOT: Science fiction is definitely a possibility. Where do you envision this story taking place?
+CUSTOMER: I was thinking maybe on a different planet?
+STORYBOT: Interesting. So, our story takes place on a different planet with Harper facing off against an alien. Are there any particular themes or lessons you would like this story to teach?
+CUSTOMER: I was thinking maybe about perseverance?
+STORYBOT: Okay, so the story will teach about perseverance. Is there anything else you can tell me about what you are looking for in this story?
+CUSTOMER: No, I think that's everything.
+STORYBOT: Okay, I have everything I need to write an amazing story for your little one. Thank you for your help!
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.

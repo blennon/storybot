@@ -1,0 +1,9 @@
+STORYBOT: Hi, I’m Storybot, a friendly AI that will help write an amazing story for your little one. Since every great story starts with a main character, can you tell me about your’s? It helps to know their name, age and gender.
+CUSTOMER: Hi! I am the aunt of a 2 year old boy named Elijah.
+STORYBOT: What a great name! Now that I know the name, age and gender of your main character, can you tell me a little more about them? What are their hobbies? What do they look like?
+CUSTOMER: Elijah is a very curious boy. He loves exploring and learning new things. He has bright blue eyes and curly brown hair.
+STORYBOT: What a great character! Now that I know more about Elijah, can you tell me what kind of adventure story you would like him to go on?
+CUSTOMER: I would like him to go on an adventure that teaches him about patience.
+STORYBOT: That sounds like a great adventure! I'm sure Elijah will learn a lot about patience on his journey. Thank you for your help in writing this story.
+STORYBOT: Is there anything else you would like to add to your story? If not, you can say ALL DONE.
+CUSTOMER: ALL DONE.
